@@ -1,7 +1,10 @@
 # AMOQ archive
 
-Everything that still exists of **AMOQ** — *LanClan AMoQ*, Stockstadt bei Darmstadt, 2000–2002.
-The maps, the website, the news, the clanwars, the guestbook.
+<img src="clan/logo/title.jpg" alt="AMOQ-Clan — Association of Masters of Quake" width="750">
+
+Everything that still exists of **AMOQ** — the *Association of Masters of Quake*, a LAN clan
+from Stockstadt bei Darmstadt, 2000–2002. The maps, the website, the news, the clanwars,
+the guestbook, the photos.
 
 Recovered 21 September 2026 from [..::LvL](https://lvlworld.com) and the Internet Archive,
 25 years after the clan's host went bankrupt and took the site down with it.
@@ -10,8 +13,8 @@ Recovered 21 September 2026 from [..::LvL](https://lvlworld.com) and the Interne
 > If you still have an old hard drive or a burned CD from back then, [see what's missing](#lost).
 
 **Contents** — [Quick start](#quick-start) · [The maps](#the-maps) · [Lost](#lost) ·
-[The clan](#the-clan) · [History](#history) · [Sources](#sources) · [Layout](#folder-layout) ·
-[Licence](#licence)
+[The clan](#the-clan) · [History](#history) · [Sources](#sources) ·
+[Folder layout](#folder-layout) · [Licence](#licence)
 
 ---
 
@@ -38,59 +41,102 @@ Works with original Quake III Arena, ioquake3, or the Steam release.
 Each folder holds the `.pk3`, the original `readme.txt`, and `screenshots/` — the in-game
 levelshot extracted from the pk3 plus whatever survived on the old websites.
 
-### Anthrax — Fabian Barkhau
+### 1. Slaughter House — Anthrax
 
-| # | Map | Console | Built | Players | |
-|---|---|---|---|---|---|
-| 1 | [Slaughter House](maps/anthrax/1-slaughter-house/) | `slaughterhouse` | Mar 2000 | 2–4 | First map. Started as an editor exercise, finished because it was fun to play. |
-| 2 | [ULTRA Cool](maps/anthrax/2-ultra-cool/) | `q3acdm1` | May 2000 | 2–4 | 1v1 domination map. |
-| 3 | [The Bunker](maps/anthrax/3-the-bunker/) | `q3acdm4` | May 2000 | 2–4 | Three rooms, two hallways, two teleporters. No Quad. |
-| 4 | [Free Fire Zone](maps/anthrax/4-free-fire-zone/) | `q3anthraxdm1` | Jan 2001 | 4–8 | TDM. Courtyard with Quad/RA/RG plus an inner complex. |
-| 5 | [Storm Sector 7](maps/anthrax/5-storm-sector-7/) | `ss7` | Jul 2002 | 2–7 | The good one. **4.5/5 on ..::LvL.** Editable `.map` source included. |
+<img src="maps/anthrax/1-slaughter-house/screenshots/levelshot.jpg" alt="Slaughter House" width="256">
 
-### Painstorm — Christoph Fröbisch
+`/map slaughterhouse` · March 2000 · 2–4 players · DM
 
-| Map | Console | Built | |
-|---|---|---|---|
-| [Pain's Room](maps/painstorm/pains-room/) | `q3acdm3` | May 2000 | *"Building Time: 2 Days. Bugs: oh, about 10! :-) OF COURSE NOT!"* |
+The first map. *"Slaughter House was originaly only thought as a small map so that I could
+lern to use the editor but I had so much fun playing the map that I decided finish it."*
+Only a 128×128 levelshot survives.
 
-### What the reviewers said
+### 2. ULTRA Cool — Anthrax
 
-**Storm Sector 7** — raptorE on ..::LvL, **4.5/5** (5 votes), 2,972 downloads:
+<img src="maps/anthrax/2-ultra-cool/screenshots/levelshot.jpg" alt="ULTRA Cool" width="480">
+
+`/map q3acdm1` · May 2000 · 2–4 players · DM, 1v1
+
+*"This is one of the Coolest 1v1 maps, its a domination map this means that the person who
+leads at the begining is most lightly to win."*
+
+### 3. The Bunker — Anthrax
+
+<img src="maps/anthrax/3-the-bunker/screenshots/an7hrax-site-2.jpg" alt="The Bunker" width="640">
+
+`/map q3acdm4` · May 2000 · 2–4 players · DM, 1v1 · [review](https://lvlworld.com/review/id:1168)
+
+Three rooms connected by two hallways and two teleporters, so the gameplay is fast. No Quad.
+*"This is the coolest map I ever built."* — ..::LvL gave it 2.7/5: *"A quality level, just
+nothing you haven't seen before."*
+
+### 4. Free Fire Zone — Anthrax
+
+<img src="maps/anthrax/4-free-fire-zone/screenshots/an7hrax-site-3.jpg" alt="Free Fire Zone" width="640">
+
+`/map q3anthraxdm1` · January 2001 · 4–8 players · DM, TDM · [review](https://lvlworld.com/review/id:936)
+
+A TDM level in two parts: a big outer courtyard holding the Quad, RA and RG, and an inner
+complex with everything else. Both worth defending. ..::LvL gave it 1.9/5.
+
+### 5. Storm Sector 7 — Anthrax
+
+<img src="maps/anthrax/5-storm-sector-7/screenshots/an7hrax-site-3.jpg" alt="Storm Sector 7" width="640">
+
+`/map ss7` · July 2002 · 2–7 players · DM, 1v1, TDM · **4.5/5 on [..::LvL](https://lvlworld.com/review/id:1401)**
+
+The good one, and the only one whose editable `.map` source survives — see
+[`source/`](maps/anthrax/5-storm-sector-7/source/). Textures and models by Evil Lair and
+Mr. Clean.
 
 > A creepy dark green Gothic map (…) great atmosphere, supported by unusual and original
 > architecture, creepy lights and textures (…) Certainly not a map for mere mortals or
 > newbies. **Download this map and get shot for an hour or two. Then do it again later.**
+>
+> — raptorE, ..::LvL
 
-**The Bunker** — wviperw, 2.7/5: *"A quality level, just nothing you haven't seen before."*
+<img src="maps/anthrax/5-storm-sector-7/screenshots/an7hrax-site-1.jpg" alt="Storm Sector 7" width="200"> <img src="maps/anthrax/5-storm-sector-7/screenshots/an7hrax-site-2.jpg" alt="Storm Sector 7" width="200"> <img src="maps/anthrax/5-storm-sector-7/screenshots/levelshot.jpg" alt="Storm Sector 7" width="200">
 
-**Free Fire Zone** — 1.9/5: *"Looks fine but not very engaging."*
+### 6. Pain's Room — Painstorm
+
+<img src="maps/painstorm/pains-room/screenshots/levelshot.jpg" alt="Pain's Room" width="640">
+
+`/map q3acdm3` · May 2000 · 5–6 players · DM
+
+A round remake of an earlier square version. *"Building Time: 2 Days. Compail Time: 8 minutes
+24 seconds. Bugs: oh, about 10! :-) OF COURSE NOT! Play IT! You will love it. I promise."*
 
 ---
 
 ## Lost
 
 These were only ever hosted on `amoq.gnw.de` as `.zip`, and the Internet Archive crawled the
-pages but never the files. Screenshots survived; the maps did not.
+pages but never the files. **The screenshots below are all that is left of them.**
 
-**If anyone still has an old drive, backup CD or ZIP disk from back then, these are the
-filenames to search for.**
+If anyone still has an old drive, backup CD or ZIP disk from back then, these are the
+filenames to search for.
 
 ### Quake 3 — [`lost/quake3/`](lost/quake3/)
 
-| Map | Author | Look for |
-|---|---|---|
-| JumpingZone | Painstorm | `q3acdm5.zip` |
+| | Map | Author | Look for |
+|---|---|---|---|
+| <img src="lost/quake3/jumpingzone-painstorm-thumb.jpg" width="150"> | **JumpingZone** | Painstorm | `q3acdm5.zip` |
+
+Painstorm's first space map, and the first they put sounds into.
 
 ### Quake 2 — [`lost/quake2/`](lost/quake2/)
 
-| Map | Author | Look for |
-|---|---|---|
-| The Lost Station (ACDM1) | Hell Soldier | `acdm1.zip` |
-| Lava Dome (ACDM2) | Hell Soldier | `acdm2.zip` |
-| The Wasted Lands (ACDM3) | Hell Soldier | `acdm3.zip` |
-| BlackDogs Railroom (ACDM4) | Blackdog | `acdm4.zip` |
-| Hall of Rockets (ACDM5) | Painstorm | `acdm5.zip` |
+| | Map | Author | Look for |
+|---|---|---|---|
+| <img src="lost/quake2/acdm1-the-lost-station-hellsoldier-thumb.jpg" width="150"> | **The Lost Station** (ACDM1) | Hell Soldier | `acdm1.zip` |
+| <img src="lost/quake2/acdm2-lava-dome-hellsoldier-thumb.jpg" width="150"> | **Lava Dome** (ACDM2) | Hell Soldier | `acdm2.zip` |
+| <img src="lost/quake2/acdm3-the-wasted-lands-hellsoldier-thumb.jpg" width="150"> | **The Wasted Lands** (ACDM3) | Hell Soldier | `acdm3.zip` |
+| <img src="lost/quake2/acdm4-blackdogs-railroom-blackdog.jpg" width="150"> | **BlackDogs Railroom** (ACDM4) | Blackdog | `acdm4.zip` |
+| <img src="lost/quake2/acdm5-hall-of-rockets-painstorm-thumb.jpg" width="150"> | **Hall of Rockets** (ACDM5) | Painstorm | `acdm5.zip` |
+
+Full-size versions of four of these are in [`lost/quake2/`](lost/quake2/) — up to 1024×768:
+
+<img src="lost/quake2/acdm2-lava-dome-hellsoldier.jpg" alt="Lava Dome" width="300"> <img src="lost/quake2/acdm5-hall-of-rockets-painstorm.jpg" alt="Hall of Rockets" width="300">
 
 Also gone: `skins/amoq.zip` (AMOQ Skinpack by Blackdog & Hell Soldier), `files/digdogs.zip`,
 `files/glq8_27.zip`, `files/pak9.zip`, `files/telewalter.rm`.
@@ -109,6 +155,17 @@ IRC: **#amoq** on QuakeNet.
 Photos in [`clan/members/`](clan/members/), full profiles in
 [`history/amoq-members.md`](history/amoq-members.md).
 
+<table>
+<tr>
+<td align="center"><img src="clan/members/hellsoldier-pasquale-herzig.jpg" width="110"><br><b>Hell Soldier</b><br>Pasquale Herzig</td>
+<td align="center"><img src="clan/members/blackdog-sven-schneider.jpg" width="110"><br><b>Blackdog</b><br>Sven Schneider</td>
+<td align="center"><img src="clan/members/painstorm-christoph-froebisch.jpg" width="110"><br><b>Painstorm</b><br>Christoph Fröbisch</td>
+<td align="center"><img src="clan/members/anthrax-fabian-barkhau.jpg" width="110"><br><b>Anthrax</b><br>Fabian Barkhau</td>
+</tr>
+</table>
+
+*(No photo of Blackybe survives.)*
+
 | Nick | Name | Role | Rig (2001) |
 |---|---|---|---|
 | Hell Soldier | Pasquale Herzig | Clanleader, Q2 + Q3 team, clanwar organiser | P3 450, 256 MB, GeForce 2 MX |
@@ -126,6 +183,10 @@ map readmes: **Kampfkoloss** (Manuel Barkhau).
 > *"LAG mich!"* — Pain
 >
 > *"Hab ich vergessen!"* — Blackdog
+
+The clan logo, donated by Phreakazoid (phr-gamez.de) in April 2000:
+
+<img src="clan/logo/logo2.gif" alt="Welcome to AMOQ Clan" width="400">
 
 ---
 
