@@ -72,8 +72,30 @@ three refused the crawler. **If anyone has it, it belongs here.**
 | Anthrax | Fabian Barkhau | Mapper | Celeron 400, 128 MB |
 
 Later members, from the news archive: **Specter** (Jul 2000), **Darth-Maul** and **Zeno**
-(Aug 2000), **G1zZ** — who wrote most of the later clanwar reports. Thanked in three of the
-map readmes: **Kampfkoloss** (Manuel Barkhau).
+(Aug 2000), **G1zZ** — who wrote most of the later clanwar reports.
+
+### Kampfkoloss
+
+**Manuel Barkhau**, Anthrax's brother — never a clan member, but credited on **every single
+map**, across two and a half years. The only person besides the author who appears in all
+five readmes:
+
+| Map | Credit |
+|---|---|
+| Slaughter House · Mar 2000 | *"Thanks to Manuel Barkhau."* |
+| ULTRA Cool · May 2000 | *"Thanks to Manuel Barkhau (Kampfkoloss), For some good ideas."* |
+| The Bunker · May 2000 | *"Thanks to Manuel Barkhau (Kampfkoloss), For some good ideas."* |
+| Free Fire Zone · Jan 2001 | *"Thanks to Manuel "Kampfkoloss" Barkhau, For some good ideas & beta testing."* |
+| Storm Sector 7 · Jul 2002 | *"Hellz Kampfkoloss for testing"* |
+
+And in the news post announcing Storm Sector 7, 28 July 2002:
+
+> The gameplay is just fine thanks to the help of **Hellz and Koloss**, who tested it with me
+> and gave me advice.
+
+By the last map he had been promoted from "good ideas" to co-tester. He appears nowhere else
+in the archive — not in the members page, not in the news, not in the guestbook. The nickname
+starts appearing with the second map, so Slaughter House was made before he had one.
 
 > *"Quake meine Religion. ID mein God. Mein Pc meine Kirche."* — Hell Soldier
 >
@@ -370,6 +392,14 @@ Searched, came up empty — so nobody has to repeat it.
 - `hellblade.gnw.de/ra3/cw/amoq.htm`, the opponent's own match report — the wars table linking
   to it survived, the report itself did not
 - `clanintern.de` clan 567 — never archived
+- **The AMOQ forum.** It lived at `gamersboard.de/board.html?id=496`, a shared board host.
+  204 captures of that host survive; board 496 is not among them.
+- **Anything by Kampfkoloss under his own name.** He is not among ..::LvL's 984 authors, and
+  there is no site, map or post attributable to him. Two domains carry the nickname —
+  `kampfkoloss.de` (2001, a German humour site by a Gert Zellentin) and `kampfkoloss.com`
+  (a German prose blog, 2008–2011, unsigned) — but nothing in either links to Manuel Barkhau
+  or to Quake, and *Kampfkoloss* is an ordinary German compound. Treat both as coincidence
+  unless he says otherwise.
 - `blackybe.de`, `phr-gamez.de`, `chaosquake.de` — nothing relevant
 - GameBanana, ModDB, MapRaider — nothing
 - None of the other AMOQ members appear in the ..::LvL author list (984 names, all checked)
