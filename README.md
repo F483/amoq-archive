@@ -245,13 +245,22 @@ The archived sites transcribed into readable Markdown. German is verbatim.
 | Q2 BG Clanwar | NLC | 60:146 | |
 | Q2 BG Clanwar | Goodfellas | 49:230 | |
 
-League: **The-Leagues GRAL** (German Rocket Arena League). On 26 October 2000 Hell Soldier
+League: **GRAL**, the German Rocket Arena League, run by *The Leagues* alongside ERA2L and
+ERA3L. On 26 October 2000 Hell Soldier
 announced AMoQ was withdrawing from the internet and from the running GRAL season, to continue
 as a Darmstadt-area LAN clan.
 
-It didn't quite end there. In February 2001 the clan was still playing **ESPL** RA3 2on2 and
-TDM 2on2 under the name **Riedbauern** — RA3 was Hell + Blackybe, ranked 11th; TDM was Pain +
-Blackdog.
+It didn't quite end there. In February 2001 the clan was still playing RA3 2on2 and TDM 2on2
+under the name **Riedbauern** in the **ESPL** — the Electronic Sports League, which later
+became ESL. RA3 was Hell + Blackybe, ranked 11th; TDM was Pain + Blackdog.
+
+**One opponent-side record survives.** HellBlade — hosted by GNW, the same provider as AMOQ —
+kept their own wars table, and it logs the 3 September 2000 clanwar as a win, **3:1 on maps,
+17:16 on rounds**. AMOQ's own news reported that night: *"Wir haben knapp 17:16 verloren."*
+The map score is a detail AMOQ never recorded. Saved in
+[`archive/opponents/`](archive/opponents/), along with the April 2001 league tables showing
+where AMOQ's opponents ended up: **Suck My Rocket** 4th in GRAL Liga 1, **Unmatched** 7th in
+ERA2L Liga 1 — both top-flight. See [`history/amoq-clanwars.md`](history/amoq-clanwars.md).
 
 ### From the news archive
 
@@ -350,7 +359,17 @@ Searched, came up empty — so nobody has to repeat it.
 - FilePlanet, the download host both sites linked to — long dead
 - idgames2 Quake 2 mirrors (gwdg.de, gamers.org, lip6.fr) — dead or 403; the Q2 clan maps are
   in no public archive
-- `clanintern.de` clan 567, The-Leagues, ESPL, Riedbauern — no league tables archived
+- **Tournament placings.** The LAN reviews describe the Bigone, BHN and GiGa-Frag tournaments
+  in detail — format, brackets, registration chaos — but never say how AMOQ placed. The
+  organisers' sites are gone too: `digitalculture.de` (Bigone) has one 2001 frameset capture
+  and nothing behind it.
+- **League tables from AMOQ's own season.** The Leagues' database was first archived in April
+  2001, five months after AMOQ withdrew; they appear nowhere in it, and only Liga 1 tables
+  were captured while AMOQ played a lower division. ESPL's archived team database is
+  Counter-Strike-heavy and from late 2001 — no Riedbauern.
+- `hellblade.gnw.de/ra3/cw/amoq.htm`, the opponent's own match report — the wars table linking
+  to it survived, the report itself did not
+- `clanintern.de` clan 567 — never archived
 - `blackybe.de`, `phr-gamez.de`, `chaosquake.de` — nothing relevant
 - GameBanana, ModDB, MapRaider — nothing
 - None of the other AMOQ members appear in the ..::LvL author list (984 names, all checked)
@@ -391,6 +410,8 @@ history/                    the sites transcribed to Markdown
 archive/
   amoq-site/                full mirror of amoq.gnw.de (61 files)
   an7hrax-site/             full mirror of an7hrax.com (45 files)
+  opponents/                opponent-side records: HellBlade's wars table,
+                            The Leagues' 2001 GRAL and ERA2L tables
   lvl-release-zips/         the 3 untouched ..::LvL release zips
   ss7_src.zip               untouched SS7 source zip
 ```
