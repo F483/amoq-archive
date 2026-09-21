@@ -49,10 +49,10 @@ Photos in [`clan/members/`](clan/members/), full profiles in
 
 <table>
 <tr>
-<td align="center"><img src="clan/members/hellsoldier-pasquale-herzig.jpg" width="110"><br><b>Hell Soldier</b><br>Pasquale Herzig</td>
-<td align="center"><img src="clan/members/blackdog-sven-schneider.jpg" width="110"><br><b>Blackdog</b><br>Sven Schneider</td>
-<td align="center"><img src="clan/members/painstorm-christoph-froebisch-thumb.jpg" width="110"><br><b>Painstorm</b><br>Christoph Fröbisch</td>
-<td align="center"><img src="clan/members/anthrax-fabian-barkhau.jpg" width="110"><br><b>Anthrax</b><br>Fabian Barkhau</td>
+<td align="center"><img src="clan/members/hellsoldier-pasquale-herzig.jpg" width="97" height="106"><br><b>Hell Soldier</b><br>Pasquale Herzig</td>
+<td align="center"><img src="clan/members/blackdog-sven-schneider.jpg" width="97" height="124"><br><b>Blackdog</b><br>Sven Schneider</td>
+<td align="center"><img src="clan/members/painstorm-christoph-froebisch-thumb.jpg" width="97" height="137"><br><b>Painstorm</b><br>Christoph Fröbisch</td>
+<td align="center"><img src="clan/members/anthrax-fabian-barkhau.jpg" width="100" height="129"><br><b>Anthrax</b><br>Fabian Barkhau</td>
 </tr>
 </table>
 
@@ -96,7 +96,7 @@ levelshot extracted from the pk3 plus whatever survived on the old websites.
 
 ### 1. Slaughter House — Anthrax
 
-<img src="maps/anthrax/1-slaughter-house/screenshots/levelshot.jpg" alt="Slaughter House" width="256">
+<img src="maps/anthrax/1-slaughter-house/screenshots/levelshot.jpg" alt="Slaughter House" width="128" height="128">
 
 **Download** [`slaughterhouse.pk3`](install/slaughterhouse.pk3?raw=1) (831 KB) · [readme](maps/anthrax/1-slaughter-house/readme.txt) · `/map slaughterhouse`
 
@@ -108,7 +108,7 @@ Only a 128×128 levelshot survives.
 
 ### 2. ULTRA Cool — Anthrax
 
-<img src="maps/anthrax/2-ultra-cool/screenshots/levelshot.jpg" alt="ULTRA Cool" width="480">
+<img src="maps/anthrax/2-ultra-cool/screenshots/levelshot.jpg" alt="ULTRA Cool" width="512" height="512">
 
 **Download** [`q3acdm1.pk3`](install/q3acdm1.pk3?raw=1) (648 KB) · [readme](maps/anthrax/2-ultra-cool/readme.txt) · `/map q3acdm1`
 
