@@ -20,19 +20,21 @@ Recovered 21 September 2026 from [..::LvL](https://lvlworld.com) and the Interne
 
 ## Quick start
 
-Copy the six `.pk3` files in [`install/`](install/) into your `quake3/baseq3/` folder, then
-in the console:
+Download the six `.pk3` files below (or
+[grab the whole archive as a zip](https://github.com/F483/amoq-archive/archive/refs/heads/main.zip)),
+drop them into your `quake3/baseq3/` folder, and type the console command.
 
-```
-/map slaughterhouse     Slaughter House   Anthrax     Mar 2000
-/map q3acdm1            ULTRA Cool        Anthrax     May 2000
-/map q3acdm4            The Bunker        Anthrax     May 2000
-/map q3anthraxdm1       Free Fire Zone    Anthrax     Jan 2001
-/map ss7                Storm Sector 7    Anthrax     Jul 2002
-/map q3acdm3            Pain's Room       Painstorm   May 2000
-```
+| Download | Map | Author | Console | Size |
+|---|---|---|---|---|
+| [`slaughterhouse.pk3`](install/slaughterhouse.pk3?raw=1) | [Slaughter House](#1-slaughter-house--anthrax) | Anthrax | `/map slaughterhouse` | 831 KB |
+| [`q3acdm1.pk3`](install/q3acdm1.pk3?raw=1) | [ULTRA Cool](#2-ultra-cool--anthrax) | Anthrax | `/map q3acdm1` | 648 KB |
+| [`q3acdm4.pk3`](install/q3acdm4.pk3?raw=1) | [The Bunker](#3-the-bunker--anthrax) | Anthrax | `/map q3acdm4` | 769 KB |
+| [`Q3AnthraxDM1.pk3`](install/Q3AnthraxDM1.pk3?raw=1) | [Free Fire Zone](#4-free-fire-zone--anthrax) | Anthrax | `/map q3anthraxdm1` | 931 KB |
+| [`SS7.pk3`](install/SS7.pk3?raw=1) | [Storm Sector 7](#5-storm-sector-7--anthrax) | Anthrax | `/map ss7` | 2.9 MB |
+| [`q3acdm3.pk3`](install/q3acdm3.pk3?raw=1) | [Pain's Room](#6-pains-room--painstorm) | Painstorm | `/map q3acdm3` | 600 KB |
 
-Works with original Quake III Arena, ioquake3, or the Steam release.
+Works with original Quake III Arena, ioquake3, or the Steam release. All six files are also
+together in [`install/`](install/).
 
 ---
 
@@ -45,7 +47,9 @@ levelshot extracted from the pk3 plus whatever survived on the old websites.
 
 <img src="maps/anthrax/1-slaughter-house/screenshots/levelshot.jpg" alt="Slaughter House" width="256">
 
-`/map slaughterhouse` · March 2000 · 2–4 players · DM
+**Download** [`slaughterhouse.pk3`](install/slaughterhouse.pk3?raw=1) (831 KB) · [readme](maps/anthrax/1-slaughter-house/readme.txt) · `/map slaughterhouse`
+
+March 2000 · 2–4 players · DM
 
 The first map. *"Slaughter House was originaly only thought as a small map so that I could
 lern to use the editor but I had so much fun playing the map that I decided finish it."*
@@ -55,7 +59,9 @@ Only a 128×128 levelshot survives.
 
 <img src="maps/anthrax/2-ultra-cool/screenshots/levelshot.jpg" alt="ULTRA Cool" width="480">
 
-`/map q3acdm1` · May 2000 · 2–4 players · DM, 1v1
+**Download** [`q3acdm1.pk3`](install/q3acdm1.pk3?raw=1) (648 KB) · [readme](maps/anthrax/2-ultra-cool/readme.txt) · `/map q3acdm1`
+
+May 2000 · 2–4 players · DM, 1v1
 
 *"This is one of the Coolest 1v1 maps, its a domination map this means that the person who
 leads at the begining is most lightly to win."*
@@ -64,7 +70,9 @@ leads at the begining is most lightly to win."*
 
 <img src="maps/anthrax/3-the-bunker/screenshots/an7hrax-site-2.jpg" alt="The Bunker" width="640">
 
-`/map q3acdm4` · May 2000 · 2–4 players · DM, 1v1 · [review](https://lvlworld.com/review/id:1168)
+**Download** [`q3acdm4.pk3`](install/q3acdm4.pk3?raw=1) (769 KB) · [original release zip](archive/lvl-release-zips/q3acdm4.zip?raw=1) (760 KB) · [readme](maps/anthrax/3-the-bunker/readme.txt) · `/map q3acdm4`
+
+May 2000 · 2–4 players · DM, 1v1 · [..::LvL review](https://lvlworld.com/review/id:1168)
 
 Three rooms connected by two hallways and two teleporters, so the gameplay is fast. No Quad.
 *"This is the coolest map I ever built."* — ..::LvL gave it 2.7/5: *"A quality level, just
@@ -74,7 +82,9 @@ nothing you haven't seen before."*
 
 <img src="maps/anthrax/4-free-fire-zone/screenshots/an7hrax-site-3.jpg" alt="Free Fire Zone" width="640">
 
-`/map q3anthraxdm1` · January 2001 · 4–8 players · DM, TDM · [review](https://lvlworld.com/review/id:936)
+**Download** [`Q3AnthraxDM1.pk3`](install/Q3AnthraxDM1.pk3?raw=1) (931 KB) · [original release zip](archive/lvl-release-zips/q3anthraxdm1.zip?raw=1) (917 KB) · [readme](maps/anthrax/4-free-fire-zone/readme.txt) · `/map q3anthraxdm1`
+
+January 2001 · 4–8 players · DM, TDM · [..::LvL review](https://lvlworld.com/review/id:936)
 
 A TDM level in two parts: a big outer courtyard holding the Quad, RA and RG, and an inner
 complex with everything else. Both worth defending. ..::LvL gave it 1.9/5.
@@ -83,7 +93,11 @@ complex with everything else. Both worth defending. ..::LvL gave it 1.9/5.
 
 <img src="maps/anthrax/5-storm-sector-7/screenshots/an7hrax-site-3.jpg" alt="Storm Sector 7" width="640">
 
-`/map ss7` · July 2002 · 2–7 players · DM, 1v1, TDM · **4.5/5 on [..::LvL](https://lvlworld.com/review/id:1401)**
+**Download** [`SS7.pk3`](install/SS7.pk3?raw=1) (2.9 MB) · [original release zip](archive/lvl-release-zips/ss7.zip?raw=1) (2.9 MB) · [readme](maps/anthrax/5-storm-sector-7/readme.txt) · `/map ss7`
+
+**Map source** [`SS7-src.map`](maps/anthrax/5-storm-sector-7/source/SS7-src.map?raw=1) (1.4 MB) · [as zip](archive/ss7_src.zip?raw=1) (166 KB) · [licence](maps/anthrax/5-storm-sector-7/source/ss7-src_lvl-ogs-license.txt)
+
+July 2002 · 2–7 players · DM, 1v1, TDM · **4.5/5 on [..::LvL](https://lvlworld.com/review/id:1401)**
 
 The good one, and the only one whose editable `.map` source survives — see
 [`source/`](maps/anthrax/5-storm-sector-7/source/). Textures and models by Evil Lair and
@@ -101,7 +115,9 @@ Mr. Clean.
 
 <img src="maps/painstorm/pains-room/screenshots/levelshot.jpg" alt="Pain's Room" width="640">
 
-`/map q3acdm3` · May 2000 · 5–6 players · DM
+**Download** [`q3acdm3.pk3`](install/q3acdm3.pk3?raw=1) (600 KB) · [readme](maps/painstorm/pains-room/readme.txt) · `/map q3acdm3`
+
+May 2000 · 5–6 players · DM
 
 A round remake of an earlier square version. *"Building Time: 2 Days. Compail Time: 8 minutes
 24 seconds. Bugs: oh, about 10! :-) OF COURSE NOT! Play IT! You will love it. I promise."*
@@ -134,9 +150,14 @@ Painstorm's first space map, and the first they put sounds into.
 | <img src="lost/quake2/acdm4-blackdogs-railroom-blackdog.jpg" width="150"> | **BlackDogs Railroom** (ACDM4) | Blackdog | `acdm4.zip` |
 | <img src="lost/quake2/acdm5-hall-of-rockets-painstorm-thumb.jpg" width="150"> | **Hall of Rockets** (ACDM5) | Painstorm | `acdm5.zip` |
 
-Full-size versions of four of these are in [`lost/quake2/`](lost/quake2/) — up to 1024×768:
+Full-size versions of four of these are in [`lost/quake2/`](lost/quake2/) — up to 1024×768.
+Click to open:
 
-<img src="lost/quake2/acdm2-lava-dome-hellsoldier.jpg" alt="Lava Dome" width="300"> <img src="lost/quake2/acdm5-hall-of-rockets-painstorm.jpg" alt="Hall of Rockets" width="300">
+[<img src="lost/quake2/acdm2-lava-dome-hellsoldier.jpg" alt="Lava Dome" width="300">](lost/quake2/acdm2-lava-dome-hellsoldier.jpg?raw=1)
+[<img src="lost/quake2/acdm5-hall-of-rockets-painstorm.jpg" alt="Hall of Rockets" width="300">](lost/quake2/acdm5-hall-of-rockets-painstorm.jpg?raw=1)
+
+Also full size: [The Wasted Lands](lost/quake2/acdm3-the-wasted-lands-hellsoldier.jpg?raw=1) ·
+[BlackDogs Railroom](lost/quake2/acdm4-blackdogs-railroom-blackdog.jpg?raw=1)
 
 Also gone: `skins/amoq.zip` (AMOQ Skinpack by Blackdog & Hell Soldier), `files/digdogs.zip`,
 `files/glq8_27.zip`, `files/pak9.zip`, `files/telewalter.rm`.
@@ -240,6 +261,16 @@ Blackdog.
 
 ## Sources
 
+**Everything is already in this repo** — the links in this section are provenance, not
+downloads. Use the [Quick start](#quick-start) table, or clone:
+
+```sh
+git clone https://github.com/F483/amoq-archive.git
+```
+
+The external sites are recorded here so the chain of custody is verifiable, and because two
+of them could disappear at any time.
+
 ### ..::LvL — <https://lvlworld.com>
 
 Still online after 25 years. The three maps that got a public release.
@@ -260,7 +291,9 @@ SS7 `.map` source, under the ..::LvL Open Game Source License:
 ### Internet Archive — `amoq.gnw.de`
 
 **The only place Slaughter House, ULTRA Cool and Pain's Room survived.** Full mirror of every
-page and image ever captured: [`archive/amoq-site/`](archive/amoq-site/).
+page and image ever captured: [`archive/amoq-site/`](archive/amoq-site/) — start at
+[`index.php3`](archive/amoq-site/index.php3), [`maps.htm`](archive/amoq-site/maps.htm),
+[`members.htm`](archive/amoq-site/members.htm), [`clanwars.htm`](archive/amoq-site/clanwars.htm).
 
 - Maps — <https://web.archive.org/web/20010309204437/http://amoq.gnw.de/maps.htm>
 - News, all 54 — <https://web.archive.org/web/2001/http://amoq.gnw.de/cgi-bin/newspro/viewnews.cgi?newsall>
@@ -282,7 +315,9 @@ had their redirect pages captured.
 
 ### Internet Archive — `an7hrax.com`
 
-Anthrax's own site, 2002–2005. Full mirror: [`archive/an7hrax-site/`](archive/an7hrax-site/).
+Anthrax's own site, 2002–2005. Full mirror: [`archive/an7hrax-site/`](archive/an7hrax-site/) —
+start at [`Maps.html`](archive/an7hrax-site/Maps.html), [`News.html`](archive/an7hrax-site/News.html),
+[`Files.html`](archive/an7hrax-site/Files.html).
 Pages and 640×480 screenshots survived; no map files were ever crawled.
 
 - Maps, final version — <https://web.archive.org/web/20050214000557/http://an7hrax.com/Maps.html>
