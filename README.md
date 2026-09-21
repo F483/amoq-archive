@@ -12,8 +12,8 @@ Recovered 21 September 2026 from [..::LvL](https://lvlworld.com) and the Interne
 > **6 maps recovered and playable. 6 maps lost** — screenshots only.
 > If you still have an old hard drive or a burned CD from back then, [see what's missing](#lost).
 
-**Contents** — [Quick start](#quick-start) · [The maps](#the-maps) · [Lost](#lost) ·
-[The clan](#the-clan) · [History](#history) · [Sources](#sources) ·
+**Contents** — [Quick start](#quick-start) · [The clan](#the-clan) · [The maps](#the-maps) ·
+[Lost](#lost) · [History](#history) · [Sources](#sources) ·
 [Folder layout](#folder-layout) · [Licence](#licence)
 
 ---
@@ -35,6 +35,50 @@ drop them into your `quake3/baseq3/` folder, and type the console command.
 
 Works with original Quake III Arena, ioquake3, or the Steam release. All six files are also
 together in [`install/`](install/).
+
+---
+
+## The clan
+
+Founded in 2000 by **Hell Soldier**, **Blackdog** and **Painstorm**. Quake 2 first; an internal
+vote in March 2000 added Quake 3 — *"Mir san Vielseitisch"*. Anthrax joined 30 April 2000.
+IRC: **#amoq** on QuakeNet.
+
+Photos in [`clan/members/`](clan/members/), full profiles in
+[`history/amoq-members.md`](history/amoq-members.md).
+
+<table>
+<tr>
+<td align="center"><img src="clan/members/hellsoldier-pasquale-herzig.jpg" width="110"><br><b>Hell Soldier</b><br>Pasquale Herzig</td>
+<td align="center"><img src="clan/members/blackdog-sven-schneider.jpg" width="110"><br><b>Blackdog</b><br>Sven Schneider</td>
+<td align="center"><img src="clan/members/painstorm-christoph-froebisch-thumb.jpg" width="110"><br><b>Painstorm</b><br>Christoph Fröbisch</td>
+<td align="center"><img src="clan/members/anthrax-fabian-barkhau.jpg" width="110"><br><b>Anthrax</b><br>Fabian Barkhau</td>
+</tr>
+</table>
+
+*(No photo of Blackybe survives.)*
+
+| Nick | Name | Role | Rig (2001) |
+|---|---|---|---|
+| Hell Soldier | Pasquale Herzig | Clanleader, Q2 + Q3 team, clanwar organiser | P3 450, 256 MB, GeForce 2 MX |
+| Blackdog | Sven Schneider | Q2 + Q3 team, server admin, co-webmaster | Athlon 500, 192 MB, TNT2 |
+| Pain(storm) | Christoph Fröbisch | Q2 + Q3 team, clanwar organiser, *Clanreizer* | Duron 750@900, 128 MB, TNT2 Ultra |
+| Blackybe | Bernd Schmidl | Webmaster | — |
+| Anthrax | Fabian Barkhau | Mapper | Celeron 400, 128 MB |
+
+Later members, from the news archive: **Specter** (Jul 2000), **Darth-Maul** and **Zeno**
+(Aug 2000), **G1zZ** — who wrote most of the later clanwar reports. Thanked in three of the
+map readmes: **Kampfkoloss** (Manuel Barkhau).
+
+> *"Quake meine Religion. ID mein God. Mein Pc meine Kirche."* — Hell Soldier
+>
+> *"LAG mich!"* — Pain
+>
+> *"Hab ich vergessen!"* — Blackdog
+
+The clan logo, donated by Phreakazoid (phr-gamez.de) in April 2000:
+
+<img src="clan/logo/logo2.gif" alt="Welcome to AMOQ Clan" width="400">
 
 ---
 
@@ -164,50 +208,6 @@ Also gone: `skins/amoq.zip` (AMOQ Skinpack by Blackdog & Hell Soldier), `files/d
 
 And one that was never finished — from the January 2002 news post:
 *"I've also started work on TDM map but its not even near alpha."*
-
----
-
-## The clan
-
-Founded in 2000 by **Hell Soldier**, **Blackdog** and **Painstorm**. Quake 2 first; an internal
-vote in March 2000 added Quake 3 — *"Mir san Vielseitisch"*. Anthrax joined 30 April 2000.
-IRC: **#amoq** on QuakeNet.
-
-Photos in [`clan/members/`](clan/members/), full profiles in
-[`history/amoq-members.md`](history/amoq-members.md).
-
-<table>
-<tr>
-<td align="center"><img src="clan/members/hellsoldier-pasquale-herzig.jpg" width="110"><br><b>Hell Soldier</b><br>Pasquale Herzig</td>
-<td align="center"><img src="clan/members/blackdog-sven-schneider.jpg" width="110"><br><b>Blackdog</b><br>Sven Schneider</td>
-<td align="center"><img src="clan/members/painstorm-christoph-froebisch.jpg" width="110"><br><b>Painstorm</b><br>Christoph Fröbisch</td>
-<td align="center"><img src="clan/members/anthrax-fabian-barkhau.jpg" width="110"><br><b>Anthrax</b><br>Fabian Barkhau</td>
-</tr>
-</table>
-
-*(No photo of Blackybe survives.)*
-
-| Nick | Name | Role | Rig (2001) |
-|---|---|---|---|
-| Hell Soldier | Pasquale Herzig | Clanleader, Q2 + Q3 team, clanwar organiser | P3 450, 256 MB, GeForce 2 MX |
-| Blackdog | Sven Schneider | Q2 + Q3 team, server admin, co-webmaster | Athlon 500, 192 MB, TNT2 |
-| Pain(storm) | Christoph Fröbisch | Q2 + Q3 team, clanwar organiser, *Clanreizer* | Duron 750@900, 128 MB, TNT2 Ultra |
-| Blackybe | Bernd Schmidl | Webmaster | — |
-| Anthrax | Fabian Barkhau | Mapper | Celeron 400, 128 MB |
-
-Later members, from the news archive: **Specter** (Jul 2000), **Darth-Maul** and **Zeno**
-(Aug 2000), **G1zZ** — who wrote most of the later clanwar reports. Thanked in three of the
-map readmes: **Kampfkoloss** (Manuel Barkhau).
-
-> *"Quake meine Religion. ID mein God. Mein Pc meine Kirche."* — Hell Soldier
->
-> *"LAG mich!"* — Pain
->
-> *"Hab ich vergessen!"* — Blackdog
-
-The clan logo, donated by Phreakazoid (phr-gamez.de) in April 2000:
-
-<img src="clan/logo/logo2.gif" alt="Welcome to AMOQ Clan" width="400">
 
 ---
 
