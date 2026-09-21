@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<HEAD>
+  <TITLE>AMOQ-Clan - News</TITLE>
+  <META NAME="Author" CONTENT="Bernd Schmidl">
+  <META NAME="GENERATOR" CONTENT="cubic S WebPage Composer - 32-bit">
+
+<STYLE type=text/css> 
+<!-- 
+A { font-size : 10pt; color : #FFCC00;  font-weight : bold; text-decoration : none; font-family : Arial,Helvetica;}
+BODY      {     font-weight : normal;}
+A:Visited  {    color : #FF9600;}
+A:Active  {     color : #FFCC00;}
+A:Hover  {      color : steelblue;}
+-->
+
+
+</STYLE>
+
+ <script language="JavaScript">
+    <!--
+    Normal2 = new Image(); 
+    Normal2.src = "../../1_startseite.gif"; /* Hier erste Standard-Grafik angeben */
+    Highlight2 = new Image(); 
+    Highlight2.src = "../../1_startseite_blue.gif"; /* Hier erste Highlight-Grafik angeben */
+
+    Normal3 = new Image(); 
+    Normal3.src = "../../2_members.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight3 = new Image(); 
+    Highlight3.src = "../../2_members_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal4 = new Image(); 
+    Normal4.src = "../../3_maps.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight4 = new Image(); 
+    Highlight4.src = "../../3_maps_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal5 = new Image(); 
+    Normal5.src = "../../4_skins.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight5 = new Image(); 
+    Highlight5.src = "../../4_skins_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal6 = new Image(); 
+    Normal6.src = "../../5_download.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight6 = new Image(); 
+    Highlight6.src = "../../5_download_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal7 = new Image(); 
+    Normal7.src = "../../6_server.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight7 = new Image(); 
+    Highlight7.src = "../../6_server_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal8 = new Image(); 
+    Normal8.src = "../../7_join.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight8 = new Image(); 
+    Highlight8.src = "../../7_join_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal9 = new Image(); 
+    Normal9.src = "../../8_clanwars.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight9 = new Image(); 
+    Highlight9.src = "../../8_clanwars_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal10 = new Image(); 
+    Normal10.src = "../../9_forum.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight10 = new Image(); 
+    Highlight10.src = "../../9_forum_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal11 = new Image(); 
+    Normal11.src = "../../10_gast.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight11 = new Image(); 
+    Highlight11.src = "../../10_gast_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    
+/* usw. fuer alle weiteren zu benutzenden Grafiken */
+
+    function Bildwechsel(Bildnr,Bildobjekt)
+    {
+     window.document.images[Bildnr].src = Bildobjekt.src;
+    }
+   //-->
+    //-->
+   </script>
+
+
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#0000FF" VLINK="#000080" ALINK="#FF0000">
+<A NAME="top"></A>
+<TABLE ALIGN=CENTER WIDTH="750" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+  <Th colspan="2"><IMG SRC="../../title.gif" ALT="AMOQ-Clan" WIDTH="750" HEIGHT="150" BORDER="0"></Th>
+</TR>
+
+<TR>
+
+  <TD width="200" valign="top">
+<a href="../../index.php3" onMouseOver="Bildwechsel(1,Highlight2)" onMouseOut="Bildwechsel(1,Normal2)"><IMG SRC="../../1_startseite.gif" 
+ALT="Startseite" 
+WIDTH="200" HEIGHT="47" BORDER="0"></a><a href="../../members.htm" onMouseOver="Bildwechsel(2,Highlight3)" 
+onMouseOut="Bildwechsel(2,Normal3)"><IMG 
+SRC="../../2_members.gif" ALT="Members" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../maps.htm" onMouseOver="Bildwechsel(3,Highlight4)" 
+onMouseOut="Bildwechsel(3,Normal4)"><IMG SRC="../../3_maps.gif" ALT="Maps" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../skins.htm" 
+onMouseOver="Bildwechsel(4,Highlight5)" onMouseOut="Bildwechsel(4,Normal5)"><IMG SRC="../../4_skins.gif" ALT="Skins" WIDTH="200" HEIGHT="37" 
+BORDER="0"></a><a 
+href="../../download.htm" onMouseOver="Bildwechsel(5,Highlight6)" onMouseOut="Bildwechsel(5,Normal6)"><IMG SRC="../../5_download.gif" ALT="Download" 
+WIDTH="200" 
+HEIGHT="42" BORDER="0"></a><a href="../../server.htm" onMouseOver="Bildwechsel(6,Highlight7)" onMouseOut="Bildwechsel(6,Normal7)"><IMG 
+SRC="../../6_server.gif" ALT="Server" WIDTH="200" HEIGHT="45" BORDER="0"></a><a href="../../join.htm" onMouseOver="Bildwechsel(7,Highlight8)" 
+onMouseOut="Bildwechsel(7,Normal8)"><IMG SRC="../../7_join.gif" ALT="Join" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../clanwars.htm" 
+onMouseOver="Bildwechsel(8,Highlight9)" onMouseOut="Bildwechsel(8,Normal9)"><IMG SRC="../../8_clanwars.gif" ALT="Clanwars" WIDTH="200" HEIGHT="42" 
+BORDER="0"></a><a href="http://amoq.gnw.de/cgi-bin/UltraBoard.pl" onMouseOver="Bildwechsel(9,Highlight10)" 
+onMouseOut="Bildwechsel(9,Normal10)"><IMG SRC="../../9_forum.gif" 
+WIDTH="200" ALT="Forum" HEIGHT="42" BORDER="0"></a><a href="../../gast.htm" onMouseOver="Bildwechsel(10,Highlight11)" 
+onMouseOut="Bildwechsel(10,Normal11)"><IMG SRC="../../10_gast.gif" ALT="G&auml;stebuch" WIDTH="200" HEIGHT="45" BORDER="0"></a><br>
+<A HREF="../../intern/index.htm">Intern</A>
+
+</TD>
+  <TD width="550" valign="top"><IMG SRC="../../pixel.gif" WIDTH="530" HEIGHT="1" BORDER="0"><br>
+
+
+<h1>Nachrichten 0-53</h1><p>
+
+
+<a name="newsitem982491095,64974,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Einiges Neues</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Sonntag den 18.2.2001 - 11:11:<small>35</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok es hat sich in letzter Zeit einiges neues Getan und ich werde jetzt mal versuchen das ganze Zusammenzufassen:<br><br>Das GNW ist pleite und wir müssen uns auf die Suche nach einem neuen Provider machen. Sollten wir bis zum 15.3 keinen anderen Provider gefunden haben wird die Seite wohl offline sein bis wir einen neuen Haben.<br><br>Projekt Riedbauern: So ganz tot sind wir doch nicht, AMOQ wird weiterhin unter dem Namen Riedbauern in der ESPL RA3 2on2 Liga und TDM 2on2 Liga weiterspielen. Dabei sind wir bereits recht erfolgreich, unser RA3 ESPL Platz ist 11, TDM hat heute abend ihr erstes Spiel. Die Aufstellungen: RA3 bestreiten Hell und Ich, TDM bestreiten Pain und Blackdog.<br><br>So das wars fürs erste...</TD></TR></TABLE><p>
+<a name="newsitem979837673,68836,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Members Page Updated</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Donnerstag den 18.1.2001 - 18:07:<small>53</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Habe eben die Rechnerkonfigurationen unserer Members auf den aktuellen Stand gebracht</TD></TR></TABLE><p>
+<a name="newsitem976916698,5981,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Gästebuch Spamm Protection</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Freitag den 15.12.2000 - 22:44:<small>58</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ich bin traurig euch mit teilen zu  müssen das ich dazu gezwungen war eine Spamming Protection in unser Gästebuch einzuprogrammieren. Es gibt leider immer wieder Leute bei denen es vom Gehirn mehr einfach nicht zu mehr reicht als billige Beschimpfungen in einem Anonymen Gästebuch zu posten.<br>Nun eine kleine erklärung wie das Gästebuch nun zu bedienen ist, ich habe mich bemüht das ganze so einfach wie möglich zu halten:<br>Ihr gebt eure email adresse oben in das Passwort genieren feld. Kurz darauf werded ihr eine email mit einem Passwort erhalten. Dieses könnt ihr benutzen um einen Eintrag zu machen. Ein Passwort gilt immer nur 1 mal und identifziert euch anhand eurer eMail Adresse eindeutig.<br>Comments Verbesserungsvorschläge etc... entweder direkt an mich oder ins Forum. Cya Blackybe</TD></TR></TABLE><p>
+<a name="newsitem972764412,86524,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Dig Dogs</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Samstag den 28.10.2000 - 22:20:<small>12</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Wegen mehrfachen requests in unserem Gästebuch habe ich mich endschlossen das ultra krasse Spiel <a href="http://amoq.gnw.de/files/digdogs.zip">Dig Dogs</a> in unseren Download bereich zu stellen. Have fun :))</TD></TR></TABLE><p>
+<a name="newsitem972569806,38985,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">AMoQ nur noch Lan-Clan</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:hellsoldier@amoq-clan.de">HellSolDier</A></TD><TD width="50%">Donnerstag den 26.10.2000 - 16:16:<small>46</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hiermit gebe ich ofiiziel bekannt, dass sich AMoQ aus dem Internet zurückzieht. Wir werden nur noch im Raum Darmstadt als LanClan weitermachen.<br>Die Gründe für diese Entscheidung liegen im internen Bereich.<br>Wir ziehen uns auch aus der noch laufenden GRAL-Saison zurück. Deshalb sorry an alle Clans gegen die wir nicht mehr spielen werden...</TD></TR></TABLE><p>
+<a name="newsitem971123390,29463,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Fun-War vs i23</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:cyber_gizzmo@gmx.de">G1zZ</A></TD><TD width="50%">Montag den 9.10.2000 - 22:29:<small>50</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Heute hatten wir einen Fun-War gegen i23 - Es war ein gutes Game, auch wenn die Jungs von i23 ein wenig uneingespielt und unkoordiniert wirkten... Endstand: 20:3 für AMoQ. Bleibt anzumerken dass i23 erst seit wenigen Tagen existieren und heute zum ersten Mal gemeinsam gezockt haben. </TD></TR></TABLE><p>
+<a name="newsitem970000483,44158,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">CW vs [K]</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:cyber_gizzmo@gmx.de">G1zZ</A></TD><TD width="50%">Dienstag den 26.9.2000 - 22:34:<small>43</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Wieder mal haben wir einen GRAL-CW trostlos verloren :( Diesmal demonstrierten wir gegen [K] unsere Unterlegenheit gegenüber 'ausgereifteren' Clans... Die erste Partie auf RA3MAP7 (Die Wahl von [K]) lief katastrophal, der AMoQ-Grossteil hatte die Map (wenn überhaupt) nur einige Male zuvor gezockt - 0:11. Partie 2 fand unserer Wahl entsprechend auf RA3MAP1 statt, wo wir wenigstens einen Ehrentreffer rausholen konnten ;) Also 1:11. Ergibt sich ein Endstand von 1:22. </TD></TR></TABLE><p>
+<a name="newsitem969699665,56956,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Neues Point Release!</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:cyber_gizzmo@gmx.de">G1zZ</A></TD><TD width="50%">Samstag den 23.9.2000 - 11:01:<small>05</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Endlich ist es soweit: Das neue Point Release ist released worden, das unser Lieblings-Suchtmittel auf die Versionsnummer 1.25 updated. Es gibt zahlreiche Veränderungen/Bugfixes, davon meiner Meinung nach am wichtigsten diverse Anti-Cheating Massnahmen :) Ziehen könnt ihr das Teil <a href="ftp://ftp.zdnet.com/gs/action/quake3/q3pointrelease_125.zip" target="_blank" >HIER</a> <br><small><a </TD></TR></TABLE><p>
+<a name="newsitem969657235,7166,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">CW vs Inc</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:cyber_gizzmo@gmx.de">G1zZ</A></TD><TD width="50%">Freitag den 22.9.2000 - 23:13:<small>55</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Im Rahmen der The-Leagues GRAL haben wir am Dienstag einen CW gegen Chaos Incorporated verloren. Nachdem der Sieg beim ersten Match mit 6:11 zweifellos verdient an Inc ging, konnten wir uns in Runde zwei zusammenraffen - Dennoch reichte es nicht für einen Sieg, sondern nur für ein knappes 10:11. Endstand: 16:22. Es war ein fairer und spassiger CW, auch wenn von einigen AMOQs durchaus schon bessere Leistungen bewundert werden konnten... </TD></TR></TABLE><p>
+<a name="newsitem968860056,41622,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Clanwar gegen Unmatched</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Mittwoch den 13.9.2000 - 17:47:<small>36</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Also gestern hatten wir einen War gegen U in der Th-Leagues GRAL Liga. Wir haben ziemlich eindeutig 22:2 verloren. Es wurden die Maps ra3map8 und ra3map1 (unsere Wahl) gespielt. Gegen Ende des Spiels gab es einige Schwierigkeiten, auf die ich aber nicht näher eingehen möchte...</TD></TR></TABLE><p>
+<a name="newsitem968012034,79027,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Clanwar vs. HBC</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackdog</A></TD><TD width="50%">Sonntag den 3.9.2000 - 22:13:<small>54</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Heute hatten wir unseren CW gegen hbc den wir leider knapp verloren haben;(<br>Die HBC-jungs haben ein gutes und faires Spiel abgeliefert und eine map gewählt ra3map8, die die meisten AMOQs heute das erste mal gezöggelt haben ;) Wir haben knapp 17:16 verloren aber das nächste mal gehts vielleicht anderes aus. OKi jungs das war ein gutes Spiel bis zum nächsten mal ;)</TD></TR></TABLE><p>
+<a name="newsitem966956077,5645,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Clanwar vs. Suck My Rocket</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Dienstag den 22.8.2000 - 16:54:<small>37</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Am Sonntag hatten wir einen Clanwar gegen Suck My Rocket. Naja wir wussten ja das wir verlieren werden aber irgendwie haben wir SMR trotzdem unterschätzt. Die Jungs habens echt ziemlich drauf und haben uns 316:119 geschlagen. Naja wir werden uns nun sowieso mehr auf RA3 konzentrieren. War ein gutes Spiel SMR und vielleicht sieht man sich mal wieder auf der einen oder anderen Lan ;)</TD></TR></TABLE><p>
+<a name="newsitem966955900,60389,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Members Members Members</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Dienstag den 22.8.2000 - 16:51:<small>40</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Tja Gott hat wohl unsere Gebete erhört und innerhalb der letzten 4 Tage haben wir 4 Online Spiel fähige Members dazu bekommen.<br>Zum einen haben Blackdog und Anthrax nun endlich Internet und können mitzocken und zum anderes sind 2 neue dazugekommen. Darth-Maul und Zeno werden uns ab jetzt unterstützen. Ich sage nur willkommen im Clan auf das #amoq immer voller wird ;)</TD></TR></TABLE><p>
+<a name="newsitem963918927,85545,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">AMOQ im IRC</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Dienstag den 18.7.2000 - 13:15:<small>27</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Wir haben nun unseren eigenen IRC Channel. Also wär cool wenn ihr uns mal besucht: Wir sind im Quakenet (irc.barrysworld.com) in #amoq<br></TD></TR></TABLE><p>
+<a name="newsitem963242688,17238,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Members Members Members</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Montag den 10.7.2000 - 17:24:<small>48</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>In letzter Zeit sind einige Anträge bei uns eingegangen von Leuten die gerne Mitglied im AMOQ-Clan werden wollten. Soweit ich mich erinnern kann waren dies insgesammt 6 personen. Darauf hin haben Hell Soldier, Painstorm und ich diese Leute inspiziert und einige 1on1s gegen sie gemacht. Leider hat es nur einer geschaft uns von seinem Potential zu überzeugen und dieser heißt <b>Specter</b>. Darum willkommen an Bord lieber Specter auf das wir in vielen Clanwars zusammen Rulen werden...</TD></TR></TABLE><p>
+<a name="newsitem959519185,55447,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Neue Maps Online</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Sonntag den 28.5.2000 - 15:06:<small>25</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Neue Maps von Painstorm und Anthrax sind nun online</TD></TR></TABLE><p>
+<a name="newsitem958590950,1938,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Blackdogs BHN Review online</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Mittwoch den 17.5.2000 - 21:15:<small>50</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Und nun ist auch das Review von Blackdog zur BHN online, er hat das ganze wohl extrem negativ bewertet ;) Sorry BHN jungs aber ich habs nicht geschrieben, hehe...<br><br><a href="http://amoq.gnw.de/review/bhn.htm">Zum Review</a> </TD></TR></TABLE><p>
+<a name="newsitem958415308,16915,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Upadates</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Montag den 15.5.2000 - 20:28:<small>28</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok eben hab ich ein paar kleinere Updates auf der AMOQ-Page gemacht:<br><br><ul><br><li>Das <a href="http://amoq.gnw.de/review/bhn.htm">Review</a> von Hell Soldier zur BHN ist online<br><li>Das foto von Anthrax ist online<br><li>Neue Maps für Q3 Sind online<br></ul><br>So das wars erstmal...</TD></TR></TABLE><p>
+<a name="newsitem958310657,60872,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Reviews zu der BHN Lan</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Sonntag den 14.5.2000 - 15:24:<small>17</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok die ersten Reviews zu der BHN Lan sind unter  <a href="http://amoq.gnw.de/review/bhn.htm" target="_blank" >Review</a> <br>zu finden</TD></TR></TABLE><p>
+<a name="newsitem958293423,92883,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">BHN-LAn</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Sonntag den 14.5.2000 - 10:37:<small>03</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hi Leute. Der AMOQ-Clan kommt gerade von der BHN-LAN in Leeheim. Es waren viele Clans vertreten. Zum Beispiel Bodycount, XL, BoK,... Ihr könnt auf dieser Seite bald ein Review finden.</TD></TR></TABLE><p>
+<a name="newsitem957808193,62769,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Wir suchen Member</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Montag den 8.5.2000 - 19:49:<small>53</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hallo,<br>Der AMOQ-Clan sucht dringend Member. Quake2 oder Quake3 ist egal. Was ihr sonst so tun oder haben sollt könnt ihr in der "join-AMOQ" Rubrik nachlesen. Wenn ihr euch dann entschieden habt meldet euch einfach bei uns. </TD></TR></TABLE><p>
+<a name="newsitem957129030,34765,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Neue Maps</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Sonntag den 30.4.2000 - 23:10:<small>30</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Letztes Wochenende war ich auf ner Lan beí Pain und wurde ununterbrochen dazu angehalten endlich die neuen Maps unseres Clans hochzuladen. Dies ist nun geschehen. Erstmals ist auch eine Q3 Map dabei. Haut rein jungx</TD></TR></TABLE><p>
+<a name="newsitem957128945,99996,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Welcome Anthrax</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Sonntag den 30.4.2000 - 23:09:<small>05</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Wir haben ein neues Mitglied im einzig Rulenden Clan. Sein Name ist Anthrax und er wird uns auf den nächsten Lans unterstützen.<br>Willkommen im Clan und ich hoffe wir werden gemeinsam noch viele viele Frags machen...</TD></TR></TABLE><p>
+<a name="newsitem956776778,64256,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">20 Gigabyte</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Mittwoch den 26.4.2000 - 21:19:<small>38</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hi! Ich hab mir jetzt eine 20,5 Gigabyte Festplatte geholt (hatte vorher nur 5 Gigs). Jetzt rocks! Kann ich endlich mehr als 6 Spiele gleichzeitig auf der Festplatte haben. :)</TD></TR></TABLE><p>
+<a name="newsitem956467342,65074,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">GiGa-Frag und müde!! :(</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:hab@ich.net">Blackdog</A></TD><TD width="50%">Sonntag den 23.4.2000 - 7:22:<small>22</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>HiHo Ruler!!<br>Die Lan hier war echt cool! Keine Pannen und so... . Ich wollt nur mal was "sagen". Ich bin ziemlich müde. Hab viel geRult und gesaugt.<br>Schade das HellSoldiernicht hier sein konnte, da er 'n paar Probs hatte. Ich glaub ich penn' jetzt mal 'ne Runde.<br></TD></TR></TABLE><p>
+<a name="newsitem956414696,19410,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">GiGa-Frag 2000</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Samstag den 22.4.2000 - 16:44:<small>56</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hi Leuz, der AMOQ-Clan ist gerade auf der FBN GiGa-Frag 2000 in Goddelau. Wir können hier kostenlos im Innanet surfen und zocken den ganzen Tag Quake und CounterStrike. Echt ne geile Party.</TD></TR></TABLE><p>
+<a name="newsitem955656957,7754,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Neues Logo</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Donnerstag den 13.4.2000 - 22:15:<small>57</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Habe eben von Phreakazoid (<a href="http://www.phr-gamez.de">http://www.phr-gamez.de</a>) ein neues Logo für unseren Clan bekommen. Sieht wirklich hübsch aus. Vielen Dank.</TD></TR></TABLE><p>
+<a name="newsitem955481174,95971,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Review von der Bigone</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Dienstag den 11.4.2000 - 21:26:<small>14</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Jo Leutz Hell und ich kommen gerade von der DC Bigone war ne Geile Party... Habe eben ein Review online gestellt also Haut rein...<br><br> <a href="review/bigone.htm">Bigone Review</a> </TD></TR></TABLE><p>
+<a name="newsitem955024180,28393,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Aufrüstung the 2nd</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Donnerstag den 6.4.2000 - 14:29:<small>40</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Wir haben ja letztens erst unseren RAM aufgerüstet. Und nun die Sensation...Ich habe endlich einen 17 Zoller!!! Und das ist bei meinem Budget wirklich eine Sensation.</TD></TR></TABLE><p>
+<a name="newsitem954937384,80647,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Neues feature auf der Members Page</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Mittwoch den 5.4.2000 - 14:23:<small>04</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Habe eben auf einen Vorschlag von Painstorm hin ein neues Feature auf der Members Page eingebaut. Jetzt kann man schnell erkennen ob eines unserer Mitglieder gerade online oder offline ist, z.B. Mein status ist momentan <img src="http://wwp.icq.com/scripts/online.dll?icq=[ICQ removed]&img=1" alt="ICQ Status" border="0"><br> <br></TD></TR></TABLE><p>
+<a name="newsitem954877842,42369,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Das vorerst letzte Forum...</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">blackybe</A></TD><TD width="50%">Dienstag den 4.4.2000 - 21:50:<small>42</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok nachdem ich nun so ca. 5 mal das Forum installiert und wieder gelöscht und neue versionen installiert und auch wieder gelöscht etc... bin ich zu der Erkenntniss gekommen das es für unseren gebrauch eigentlich völlig ausreicht ein Forum von <a href="http://www.gamersboard.de">http://www.gamersboard.de</a> zu mieten. Deswegen hat der AMOQ-Clan jetzt ein Forum bei Gamersboard und ich hab keinen Administrationsaufwand mehr. Der Webmaster ist dann am glücklichsten wenn er am wenigsten zutun hat.</TD></TR></TABLE><p>
+<a name="newsitem954533229,70547,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Newsletter</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Freitag den 31.3.2000 - 22:07:<small>09</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Wie vorhin gesagt ich bin heute extrem Produktiv... eben habe ich unseren Newsletter installiert: Immer wenn eine neue News gepostet wird bekommen alle eingetragenen Leute automatisch eine eMail. Ist das nicht toll?</TD></TR></TABLE><p>
+<a name="newsitem954531342,19604,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Blackybe mal wieder ganz produktiv...</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Freitag den 31.3.2000 - 21:35:<small>42</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Also ich hab mich mal wieder selber übertroffen und bin wieder mal so produktiv das glaubt man ja gar nicht. Ich bin ganz stolz darauf meine neue eigene Seite ankündigen zu dürfen, <a href="http://www.blackybe.de">http://www.blackybe.de</a> <p><br>Weitere Updates jetzt zusammengefasst<br><br><ul><br><li>Bild von Hell Soldier online<br><li>Bild von Painstorm online<br><li>Langes Rumgefixe am Forum, und jetzt trotzdem wieder das alte online :-(<br><li>Update der Clandaten in der Member Sektion<br><li>http://www.blackybe.de ist online<br></ul><br>So das wars für heute... euer Blackybe</TD></TR></TABLE><p>
+<a name="newsitem954529602,39661,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Aufrüstung</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:HellSoldier@amoq-clan.de">HellSoldier</A></TD><TD width="50%">Freitag den 31.3.2000 - 21:06:<small>42</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>3 Members haben ihre PCs aufgerüstet. Ich habe nun 160, Blackdog 192 und Painstorm 128 MB Ram!! Ok für manche is selbst das relativ wenig, aber die haben auch ein anderes Budget als wir. Könnt ja mal in Members schauen und unser Alter tippen. ;)</TD></TR></TABLE><p>
+<a name="newsitem953129788,50183,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">http://www.AMOQ-Clan.de</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Mittwoch den 15.3.2000 - 15:16:<small>28</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Der AMOQ-Clan ist jetzt auch unter AMOQ-Clan erreichbar. Das heißt,daß wir eine neue Domain haben und zwar:<br><a href="HTTP://WWW.AMOQ-CLAN.DE">HTTP://WWW.AMOQ-CLAN.DE</a><br>Unsere E-Mail Adressen haben sich auch geändert. Nähmlich <br><NICK>@AMOQ-Clan.de. Cool oda?<br></TD></TR></TABLE><p>
+<a name="newsitem952978593,85671,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Mir san Vielseitisch</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Montag den 13.3.2000 - 21:16:<small>33</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Im Logo war es ja schon angedeutet, nun ist es offiziell nach einer internen Abstimmung spielt der AMOQ-Clan nun offiziel AUCH Quake 3 Arena. Wir werden allerdings auch noch weiterhin CWs in Q2 austragen da den meißten von uns das Spiel so ans Herz gewachsen ist...</TD></TR></TABLE><p>
+<a name="newsitem952853858,64533,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Q3 Level-Editoren</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Sonntag den 12.3.2000 - 10:37:<small>38</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hi Leuz,<br><br>Ich und BlackDog sind nun Quake3Arena Level Editor von AMOQ. Ihr werdet bald Level von uns hier downloaden können. </TD></TR></TABLE><p>
+<a name="newsitem952712447,54794,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Änderungen und Domain</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Freitag den 10.3.2000 - 19:20:<small>47</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Die AMOQ HP hat wieder ein paar kleinere Änderungen erfahren:<br><br>- Die Bilder im Members bereich sind nun Schwarzweiß<br><br>- Der Moorhuhn jagt Record steht nun im Members bereich<br><br>- Blackdog hat ein Motto<p><br>Desweiteren ist unsere HP, dank Freedoms, jetzt auch unter <a href="http://www.blackybe.de">http://www.blackybe.de</a> zu erreichen.</TD></TR></TABLE><p>
+<a name="newsitem951662297,80805,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Gästebuch Online</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Sonntag den 27.2.2000 - 15:38:<small>17</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Nach einigen Tests mit verschiedenen Gästebüchern habe ich nun eins Gefunden was sich wunderschön konfigurieren lässt. Also das Gästebuch ist online bitte tragt euch ein ;)<br><br>Wegen einigen Beschwerden wird das Forum nun in einem neuen Fenster geöffnet wenn man drauf klickt</TD></TR></TABLE><p>
+<a name="newsitem951662293,91074,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Gästebuch Online</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Sonntag den 27.2.2000 - 15:38:<small>13</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Nach einigen Tests mit verschiedenen Gästebüchern habe ich nun eins Gefunden was sich wunderschön konfigurieren lässt. Also das Gästebuch ist online bitte tragt euch ein ;)<br><br>Wegen einigen Beschwerden wird das Forum nun in einem neuen Fenster geöffnet wenn man drauf klickt</TD></TR></TABLE><p>
+<a name="newsitem951426419,80584,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Demos Online</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Donnerstag den 24.2.2000 - 22:06:<small>59</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Die Demos zu unseren Clanwars gegen GF und NLC sind jetzt online, schaut einfach mal unter der Rubrik Clanwars und dann auf Details...</TD></TR></TABLE><p>
+<a name="newsitem951253996,8106,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Updates Updates Updated</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Dienstag den 22.2.2000 - 22:13:<small>16</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok ich habe unsere Seiten wieder mal geupdated:<br><ul><br><li>Die neue Map von Hell ist Online unter Maps könnt ihr ACDM3 Downloaden<br><li>Unser Clanwar gegen NLC ist online Review und Demos folgen noch.<br><li>Die Members Page wurde ein wenig verändert.<br><li>Das Forum wurde ein wenig verändert und nun aus dem Standart Design der AMOQ-HP genommen damit haben wir dann mehr platz zum schreiben und es sieht auch hübscher aus.<br><li>Das Gästebuch wird spätestens Ende dieser Woche Online gesetzt, ich habe es eben komplett konfiguriert muss allerdings noch einige veränderungen vornhemen...<br></ul></TD></TR></TABLE><p>
+<a name="newsitem950910654,33374,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Clanwar gegen NLC</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Freitag den 18.2.2000 - 22:50:<small>54</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Jo man das war mal lustig ;)<br>Nach einigen Startproblemen fanden wir einen geeigneten Server allerdings war NLC leicht verwirrt da sie gleichzeitig einen Clanwar mit uns und einen mit amoK ausgemacht haben ;)<br>Das spiel ansich war für mich ja wiedermal der reinste Terror: Nur lag lag lag ich bin mehr geschwebt als gelaufen... Die zweite halbzeit spielten wir eigentlich nur noch zu zweit da Pain irgendwann keinen bock mehr hatte?!<br>Naja also wir haben verloren aber wir lassen uns nicht unterkriegen, vielleicht krieg ich ja irgendwann mal isdn ;)<br></TD></TR></TABLE><p>
+<a name="newsitem950904117,53367,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">NLC-Clanwar</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Freitag den 18.2.2000 - 21:01:<small>57</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Wir haben jatzt gleich einen Clanwar gegen NLC und wir hoffen, daß wir gewinnen. Gegen GF liefs ja nicht so gut :)<br></TD></TR></TABLE><p>
+<a name="newsitem950564091,35894,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Cypressers Foto</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Montag den 14.2.2000 - 22:34:<small>51</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ich habe eben Cypressers foto in den Member Bereich reingespielt und bin total deprimiert das der so gut wie keine Schule mehr machen muss und ich im Gymnasium schmoren muss...<br>Der babbsack! ;)</TD></TR></TABLE><p>
+<a name="newsitem950346951,46795,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Mein Everglide</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Samstag den 12.2.2000 - 10:15:<small>51</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hi Leuz,<br>Ich habe jetzt endlich nach lagem Warten mein Quake3Arena Everglide Mauspad bekommen.<br>Jetzt kann ich euch Freaks noch besser zocken als vorher :)<br></TD></TR></TABLE><p>
+<a name="newsitem950205464,57011,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Site Update</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Donnerstag den 10.2.2000 - 18:57:<small>44</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok der Clanwar gegen GF wurde jetzt mit allen Details in die Rubrik "<a href="clanwars.htm">Clanwars</a> aufgenommen<p><br>Zu Pains rücktritt von Clanwars: Bitte diskutiert das nicht in den News aus, wozu haben wir denn ein Forum? Genau für solche Dinge also benutzt es bitte auch dafür!<p><br>Ich habe meine Webcam ins Internet gestellt unter <a href="http://amoq.gnw.de/webcam/">http://amoq.gnw.de/webcam/</a> aktuallisiert meine Webcam ab ca 21 alle 2 Minuten</TD></TR></TABLE><p>
+<a name="newsitem950200211,81249,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Painstorm</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Hell Soldier</A></TD><TD width="50%">Donnerstag den 10.2.2000 - 17:30:<small>11</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hey Pain!<br><br>Ich möchte mich nochmal für den ganzen clan und besonders für entschuldigen! Tut mir echt leid was ich geschrieben/gesagt habe! Sorry! Bitte mach wieder mit. Wir brauchen dich! :) Amoq ist und bleibt ein Clan für Freunde!</TD></TR></TABLE><p>
+<a name="newsitem950185459,29231,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Clanwars mit mir</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Donnerstag den 10.2.2000 - 13:24:<small>19</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hey Leute, es gibt News von mir.<br>Ich habe mich entschlossen aus internen Gründen nicht mehr an Clanwars teilzunehmen. Wenn ihr genauere Fragen habt warum, dann mailt mir.<br>[email removed]<br><br><br><br></TD></TR></TABLE><p>
+<a name="newsitem950130749,47946,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Clanwar zuende AMOQ loost total ab</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Mittwoch den 9.2.2000 - 22:12:<small>29</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Oh mann das war was, wir haben dermaßen derb verloren das ist zu peinlich ist das in den News zu posten schaut einfach in 2-3 tagen in die clanwars Sektion...<br>Painstorm: Wenn du das nächste mal Clanwars ausmachst, frag uns vorher sonst stehen wir bald da und sollen gegen MTW kämpfen ;)</TD></TR></TABLE><p>
+<a name="newsitem950126425,15479,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Gleich Clanwar gegen GF</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Mittwoch den 9.2.2000 - 21:00:<small>25</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok wir machen gleich nen clanwar gegen die jungs von GF ich hoffe das wir wenigstens einigermaßen gut dastehen werden glaube aber nach berichten von anderen clans weniger daran...</TD></TR></TABLE><p>
+<a name="newsitem949947134,45053,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">Die Seiten wurden eröffnet</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Blackybe</A></TD><TD width="50%">Montag den 7.2.2000 - 19:12:<small>14</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>So nach nun einer Woche voll mit HTML Programmieren, CGI Installationen und Grafiken erstellen ist es nun endlich soweit. Die AMOQ-Clan HomePage hat ein neues Gesicht und sieht geiler aus als Denje, wir sind nun endlich auch ein Internet Clan und freuen uns auf eine Zeit in der wir so abrulen wie es noch nie ein Clan zuvor getan hat...</TD></TR></TABLE><p>
+<a name="newsitem949947104,618,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">News machen ist cool.</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:[email removed]">Painstorm</A></TD><TD width="50%">Montag den 7.2.2000 - 19:11:<small>44</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Hier ist Painstorm und unsere neue Homepage ist echt cool. Ich kann sogar selbst News machen :-).<br>CGIruleZ.<br></TD></TR></TABLE><p>
+<a name="newsitem949930681,87926,"></a>
+<TABLE ALIGN=CENTER WIDTH="500" BORDER="0" CELLPADDING="1" CELLSPACING="2"><tr><Th colspan="2">News Test</Th></TR><tr bgcolor="#151515"><TD width="50%"><A HREF="mailto:Blackybe@gmx.de">Blackybe</A></TD><TD width="50%">Montag den 7.2.2000 - 14:38:<small>01</small></TD></TR><tr bgcolor="#151515"><Td colspan="2"></center></b>Ok ich habe eben das News Add CGI-Script installiert, jetzt kann jedes Mitglied selber News auf unserer HP posten und ich muss das nicht immer alles selber verwalten...</TD></TR></TABLE><p>
+
+
+</TD>
+</TR>
+<tr><td><A HREF="#top">#Top</A></td><td><small><FONT COLOR="#808080">&copy 2000 - AMOQ-Clan (Webmaster: <A 
+HREF="mailto:[email removed]">Blackybe</A> aka Bernd Schmidl)</FONT></small>
+
+</TABLE>
+</BODY>
+</HTML>

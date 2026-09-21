@@ -1,0 +1,57 @@
+
+Date: 2002-07-28
+What: Quake 3 arena map file
+
+========================================================================
+
+title:          Storm Sector 7
+file:           SS7-src.map
+author:         An7hrax
+email address:  webmaster@an7hrax.com
+URL:            http://www.an7hrax.com/
+description:    The map source (SS7-src.map) for 'SS7' released 
+                under the ..::LvL Open Game Source License.
+
+To find the compiled map, it's textures, shaders, models
+and sounds go to http://www.an7hrax.com/maps/SS7.zip 
+
+========================================================================
+
+Conditions of use of SS7-src.map
+
+'SS7-src.map' is released to the public by An7hrax under 
+the ..::LvL Open Game Source License. You are free to use 
+'SS7-src.map' as a base for any thing you wish or can imagine. 
+The following is all I ask for in return:
+
+1, You must state in a text file, included with in any distribution 
+medium of your new creation that 'SS7-src.map' by An7hrax 
+was used in the creation of [insert the name of your creation here], 
+released under the ..::LvL Open Game Source License'.
+
+2, You can NOT call your new creation 'SS7' or 
+'Storm Sector 7' as this is the title of the original.
+
+3, You can only use SS7-src.map at your own risk. Any damage, 
+good or bad caused by SS7-src.map is your problem.
+
+4, 'SS7-src.map' may be distributed by any means so long as this 
+text file is included.
+
+========================================================================
+
+About the ..::LvL Open Game Source License 
+
+The ..::LvL Open Game Source License (OGSL) has been set-up to encourage
+creators of game add-ons and content to release their source files 
+publicly for use and modification. OGSL requires the creators of new 
+content to recognise the original Author(s) work while giving the 
+creator full freedom.
+
+For more information about OGSL, including a blank template visit:
+http://lvl.sourceforge.net/lvl-ogsl.php
+
+
+
+
+

@@ -1,0 +1,508 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<HEAD>
+  <TITLE>AMOQ-Clan - 
+Mein geiles Gästebuch</TITLE>
+  <META NAME="Author" CONTENT="Bernd Schmidl">
+  <META NAME="GENERATOR" CONTENT="Blackybes Krasses Gästebuch - CGI Script">
+
+<STYLE type=text/css> 
+<!-- 
+A { font-size : 10pt; color : #FFCC00;  font-weight : bold; text-decoration : none; font-family : Arial,Helvetica;}
+BODY      {     font-weight : normal;}
+A:Visited  {    color : #FF9600;}
+A:Active  {     color : #FFCC00;}
+A:Hover  {      color : steelblue;}
+-->
+
+
+</STYLE>
+
+ <script language="JavaScript">
+    <!--
+    Normal2 = new Image(); 
+    Normal2.src = "../../1_startseite.gif"; /* Hier erste Standard-Grafik angeben */
+    Highlight2 = new Image(); 
+    Highlight2.src = "../../1_startseite_blue.gif"; /* Hier erste Highlight-Grafik angeben */
+
+    Normal3 = new Image(); 
+    Normal3.src = "../../2_members.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight3 = new Image(); 
+    Highlight3.src = "../../2_members_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal4 = new Image(); 
+    Normal4.src = "../../3_maps.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight4 = new Image(); 
+    Highlight4.src = "../../3_maps_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal5 = new Image(); 
+    Normal5.src = "../../4_skins.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight5 = new Image(); 
+    Highlight5.src = "../../4_skins_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal6 = new Image(); 
+    Normal6.src = "../../5_download.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight6 = new Image(); 
+    Highlight6.src = "../../5_download_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal7 = new Image(); 
+    Normal7.src = "../../6_server.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight7 = new Image(); 
+    Highlight7.src = "../../6_server_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal8 = new Image(); 
+    Normal8.src = "../../7_join.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight8 = new Image(); 
+    Highlight8.src = "../../7_join_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal9 = new Image(); 
+    Normal9.src = "../../8_clanwars.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight9 = new Image(); 
+    Highlight9.src = "../../8_clanwars_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal10 = new Image(); 
+    Normal10.src = "../../9_forum.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight10 = new Image(); 
+    Highlight10.src = "../../9_forum_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal11 = new Image(); 
+    Normal11.src = "../../10_gast.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight11 = new Image(); 
+    Highlight11.src = "../../10_gast_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    
+/* usw. fuer alle weiteren zu benutzenden Grafiken */
+
+    function Bildwechsel(Bildnr,Bildobjekt)
+    {
+     window.document.images[Bildnr].src = Bildobjekt.src;
+    }
+   //-->
+    //-->
+   </script>
+
+
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#0000FF" VLINK="#000080" ALINK="#FF0000">
+<A NAME="top"></A>
+<TABLE ALIGN=CENTER WIDTH="750" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+  <Th colspan="2"><IMG SRC="../../title.jpg" ALT="AMOQ-Clan" WIDTH="750" HEIGHT="150" BORDER="0"></Th>
+</TR>
+
+<TR>
+
+  <TD width="200" valign="top">
+<a href="../../index.php3" onMouseOver="Bildwechsel(1,Highlight2)" onMouseOut="Bildwechsel(1,Normal2)"><IMG SRC="../../1_startseite.gif" 
+ALT="Startseite" 
+WIDTH="200" HEIGHT="47" BORDER="0"></a><a href="../../members.htm" onMouseOver="Bildwechsel(2,Highlight3)" 
+onMouseOut="Bildwechsel(2,Normal3)"><IMG 
+SRC="../../2_members.gif" ALT="Members" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../maps.htm" onMouseOver="Bildwechsel(3,Highlight4)" 
+onMouseOut="Bildwechsel(3,Normal4)"><IMG SRC="../../3_maps.gif" ALT="Maps" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../skins.htm" 
+onMouseOver="Bildwechsel(4,Highlight5)" onMouseOut="Bildwechsel(4,Normal5)"><IMG SRC="../../4_skins.gif" ALT="Skins" WIDTH="200" HEIGHT="37" 
+BORDER="0"></a><a 
+href="../../download.htm" onMouseOver="Bildwechsel(5,Highlight6)" onMouseOut="Bildwechsel(5,Normal6)"><IMG SRC="../../5_download.gif" ALT="Download" 
+WIDTH="200" 
+HEIGHT="42" BORDER="0"></a><a href="../../server.htm" onMouseOver="Bildwechsel(6,Highlight7)" onMouseOut="Bildwechsel(6,Normal7)"><IMG 
+SRC="../../6_server.gif" ALT="Server" WIDTH="200" HEIGHT="45" BORDER="0"></a><a href="../../join.htm" onMouseOver="Bildwechsel(7,Highlight8)" 
+onMouseOut="Bildwechsel(7,Normal8)"><IMG SRC="../../7_join.gif" ALT="Join" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../clanwars.htm" 
+onMouseOver="Bildwechsel(8,Highlight9)" onMouseOut="Bildwechsel(8,Normal9)"><IMG SRC="../../8_clanwars.gif" ALT="Clanwars" WIDTH="200" HEIGHT="42" 
+BORDER="0"></a><A HREF="#" onClick="window.open 
+('http://www.gamersboard.de/board.html?id=496','Forum','scrollbars=yes,status=no,top=100,left=100,width=780,height=580')" 
+onMouseOver="Bildwechsel(9,Highlight10)" onMouseOut="Bildwechsel(9,Normal10)"><IMG SRC="../../9_forum.gif" 
+WIDTH="200" ALT="Forum" HEIGHT="42" BORDER="0"></a><a href="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl" onMouseOver="Bildwechsel(10,Highlight11)" 
+onMouseOut="Bildwechsel(10,Normal11)"><IMG SRC="../../10_gast.gif" ALT="G&auml;stebuch" WIDTH="200" HEIGHT="45" BORDER="0"></a><br>
+<A HREF="intern/index.htm">Intern</A>
+
+</TD>
+  <TD width="550" valign="top"><IMG SRC="../../pixel.gif" WIDTH="530" HEIGHT="1" BORDER="0"><br>
+<CENTER><IMG SRC="../../gast.gif" ALT="Gästebuch" WIDTH="350" HEIGHT="60" BORDER="0"></CENTER><p><FORM ACTION="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl" METHOD=GET>
+
+<INPUT TYPE=HIDDEN NAME="wattodo" VALUE="passwort_gen">
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<tr bgcolor="#151515">
+<th colspan=2>Passwort Generator</th>
+</tr>
+<TR bgcolor="#151515">
+  <TD>Deine eMail Adresse: <INPUT NAME="email" TYPE=TEXT></TD>
+  <TD><INPUT NAME="yes" VALUE="Generieren" TYPE=SUBMIT></TD>
+</TR>
+</TABLE>
+
+</form>
+
+
+<FORM ACTION="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl" METHOD=GET>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<tr bgcolor="#151515">
+<th colspan=2>Eintragen</th>
+</tr>
+<TR bgcolor="#151515">
+  <TD>Name: <INPUT NAME="name" TYPE=TEXT></TD>
+  <TD>Passwort: <INPUT NAME="gen_pass" TYPE=TEXT></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Kommentar:<br><TEXTAREA NAME="kommentar" WRAP=PHYSICAL COLS="50" ROWS="6"></TEXTAREA></TD>
+</TR>
+<tr bgcolor="#151515">
+<th colspan=2><INPUT NAME="yes" VALUE="Best&auml;tigen" TYPE=SUBMIT></th>
+</tr>
+</TABLE>
+<INPUT TYPE=HIDDEN NAME="wattodo" VALUE="eintrag_beab">
+</form>
+<p>
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:MSPetri@t-online.de">mat</a></TD>
+  <TD width="50%">1.11.2000 - 14:00:<small>44</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">die seite is ok.ich wollte euch beitreten aber ich erfülle die vorraussetzung net mit dem freundlichsein.allso fordere ich euch zum war. 2on2(cs).pasquale dich beleidige ich mal net denn sonst wär ich tief gesunken.<br>W-G rulez<br>P.S. dont worry be happy;)</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>21.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:judger@web.de">Gregor Richter</a></TD>
+  <TD width="50%">1.11.2000 - 13:59:<small>27</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Tolle page, wollte nur mal was nachschauen.<br>:=)</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>22.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:[email removed]">*AMoQ*Pa!n</a></TD>
+  <TD width="50%">1.11.2000 - 13:34:<small>32</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Also ich will auf einem richtigen oder auf einem virtuellen Brett spielen. das mit den Zahlen kann ich mir nicht merken...hab auch ein schlechtes Gedächnis ;).<br><br>Übrigens meine neue E-Mail Addresse ist [email removed].<br><br>Pain,kennst du irgend eine URL wo man gegeneinander Schach spielen kann? Dann müssten wir mal eine Uhrzeit ausmachen...</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>23.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:pain@ddd-clan.de">[DDD]Pain</a></TD>
+  <TD width="50%">1.11.2000 - 11:36:<small>28</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Tourney3? Haben wir das mal zusammen gespielt? Hab ein schlechtes Gedächtnis... :-(<br><br>Soso... meinst Du, Du gewinnst in Schach... höhö... okay, dann fangen wir mal an... <br><br>--- e4 ---<br><br>Pain</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>24.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:[email removed]">*AMoQ*Pa!n</a></TD>
+  <TD width="50%">1.11.2000 - 8:47:<small>53</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">CS is Kagge. Q3 RuleZ!!!<br><br>Hmmm....also die Revance spielen wir aber nicht in Tourney3 ok??? Da liefs net gut für mich...;)<br>In Schach gewinn ich eh :p</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>25.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:pain@ddd-clan.de">[DDD]Pain</a></TD>
+  <TD width="50%">31.10.2000 - 19:14:<small>11</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hallole,<br><br>jaja, genau, Pain, Schach müsse mer noch spielen... hehe, danach dann die Revanche in Quake für den, der verliert!!!<br><br>Pain, ach übrigens, CS ist OBERAFFENGEIL... :-)))</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>26.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:Anthrax666@gmx.de">AMOQ|Anthrax</a></TD>
+  <TD width="50%">31.10.2000 - 17:19:<small>17</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Moin<br><br>Meine neue E-mail ist Anthrax666@gmx.de<br>BHN Sucks :)<br><br>cu</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>27.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:FabianBarkhau@gmx.de">[AMOQ]Anthrax</a></TD>
+  <TD width="50%">30.10.2000 - 17:10:<small>14</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Gude<br>Ich bin wieder Online 8D.<br>Ach CS Sucks<br>cu<br></TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>28.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:goranius@deutscher-ritterorden.de">[DRO]RitterGoranius</a></TD>
+  <TD width="50%">29.10.2000 - 2:57:<small>19</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Eure HP gefällt mir gut, sogar mit Downloadteil!!!!<br><br>Grüße aus Wien<br><br>Ritter Goranius</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>29.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:[email removed]">[AMOQ]Pain</a></TD>
+  <TD width="50%">26.10.2000 - 16:14:<small>30</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Ach, Hi. BoK, stimmt. Wir müssen noch Schach spielen ;))).</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>30.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:pain@ddd-clan.de">[DDD]Pain</a></TD>
+  <TD width="50%">25.10.2000 - 13:44:<small>34</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hi,<br><br>klar, Pain, ich glaube Dich mal vor langer Zeit in meinem ICQ geaddet zu haben, wenn mich nicht alles täuscht... ich war vorher bei [BoK]... naja, was solls... :-)<br><br>Pain</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>31.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:dick@dogs.de">DICK-DOG</a></TD>
+  <TD width="50%">25.10.2000 - 12:17:<small>48</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">ICH WILL DICK-DODS Downloaden!!!!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>32.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:blah@blah.blah">*AMoQ*Pain</a></TD>
+  <TD width="50%">22.10.2000 - 18:54:<small>07</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Ich hab zu meiner Verteidigng zu sagen, dass ich vorher Painstorm hiess ;).<br><br>P.S: CS SUX!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>33.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:pain@ddd-clan.de">[DDD]Pain</a></TD>
+  <TD width="50%">21.10.2000 - 17:42:<small>15</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Grüsse aus Südhessen!!!<br>Grüsse auch an [AMOQ]Pain, dem Namensdieb... höhö...<br>Nette Page! Spielt Ihr auch CS?<br><br>Bis dann, <br>[DDD]Pain </TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>34.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:alex@coshpage.de">Alex</a></TD>
+  <TD width="50%">20.10.2000 - 14:26:<small>53</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Warum kann man bei dir eigentlich nicht DICKDOGS runterladen? ->SOFORT zum Dowload packen, sonst Schläge!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>35.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:aliasx@enforcers.de">[AE]AliasX</a></TD>
+  <TD width="50%">13.10.2000 - 12:07:<small>27</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hi@all<br>Ich habe Blackybe gefordert und auf dem Wege sach ich dann gleich mal hallo! Ich hoffe das Spielkommt zustande...</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>36.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:cyber_gizzmo@gmx.de">AMoQ|G1zZ</a></TD>
+  <TD width="50%">5.10.2000 - 18:44:<small>53</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Sorry wegen Doppelpost, Inet inner Firma hat ma wieda gesponnen... :D</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>37.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:cyber_gizzmo@gmx.de">AMoQ|G1zZ</a></TD>
+  <TD width="50%">5.10.2000 - 14:07:<small>28</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hoi,<br><br>muss mich Pain leider anschliessen, da ich auch NGI habe/hatte... :( Somit s fast der gesamte Clan derzeit offline... <br><br>CU</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>38.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:cyber_gizzmo@gmx.de">AMoQ|G1zZ</a></TD>
+  <TD width="50%">5.10.2000 - 14:04:<small>52</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hoi,<br><br>muss mich Pain leider anschliessen, da ich auch NGI habe/hatte... :( Somit dürfte fast der gesamte Teil des Clans mitlerweile offline sein...<br><br>CU</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>39.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:[email removed]">AMoQ|Pain[QSC]</a></TD>
+  <TD width="50%">5.10.2000 - 8:33:<small>51</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hallo zusammen,<br><br>Ich bin gerade auf Arbeit. Ich kann in den nächsten Tage nicht online sein, wegen den beschissenen NGI Problemen...<br><br>CYA<br><br>VisiT: http://www.AMOQ-Clan.de<br>VisiT: http://www.LGNetwork.de</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>40.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+<a href="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl?start_entry=41">Die nächsten 20 Einträge</a>
+</TD>
+</TR>
+<tr><td><A HREF="#top">#Top</A></td><td><small><FONT COLOR="#808080">&copy 2000 - AMOQ-Clan (Webmaster: <A 
+HREF="mailto:[email removed]">Blackybe</A> aka Bernd Schmidl)</FONT></small>
+
+</TABLE>
+
+
+Created with Blackybe's abgefahrenes Gästebuch v1.4

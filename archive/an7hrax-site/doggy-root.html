@@ -1,0 +1,146 @@
+
+<HTML DIR=LTR>
+<HEAD>
+<TITLE>.:: Welcome to Digital Dogart! ::.     .::  Optotechnik &  ::.      .:: Bildverarbeitung ::.</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></HEAD>
+<BODY bgcolor="#FFFFFF" onLoad="startBanner()" text="#000000">
+<style type="text/css">
+     P  {}
+     H1  {}
+     H2  {}
+     H3  {}
+     A  {
+     	text-decoration : none;
+; color: #E6E6E6; font-weight: bold     }
+A:Visited  {
+text-decoration : none;
+}
+A:Active  {
+text-decoration : none;
+}
+A:Hover  {
+text-decoration : underline;
+color : #FFB818;
+}
+BODY  
+.nav {  font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; text-decoration: none}
+</style>
+<!--................................................................................ -->
+<!-- Beginn von Typing Text Script -->
+
+
+<!-- Anfang des Scriptes -->
+<script language="JavaScript"><!--
+// Hide this script from old browsers --
+var speed = 20 
+var pause = 2500 
+var timerID = null
+var bannerRunning = false
+var ar = new Array()
+
+ar[0] = "Welcome To digital dogart "
+ar[1] = "The Art For Dogs ;))"
+ar[2] = "View My Gallery"
+ar[3] = "PhotoShop, Bryce, 3DMax and more"
+ar[4] = "Enjoy surfin' and Have Fun!"
+
+var message = 0
+var state = ""
+clearState()
+function stopBanner() {
+        if (bannerRunning)
+                clearTimeout(timerID)
+        bannerRunning = false
+}
+
+function startBanner() {
+        stopBanner()
+        showBanner()
+}
+function clearState() {
+        state = ""
+        for (var i = 0; i < ar[message].length; ++i) {
+                state += "0"
+        }
+}
+function showBanner() {
+        if (getString()) {
+                message++
+                if (ar.length <= message)
+                        message = 0
+                clearState()
+                timerID = setTimeout("showBanner()", pause)
+                bannerRunning = true
+        } else {
+                var str = ""
+                for (var j = 0; j < state.length; ++j) {
+                        str += (state.charAt(j) == "1") ? ar[message].charAt(j) : "     "
+                }
+                window.status = str
+                timerID = setTimeout("showBanner()", speed)
+                bannerRunning = true
+        }
+}
+function getString() {
+        var full = true
+        for (var j = 0; j < state.length; ++j) {
+                if (state.charAt(j) == 0)
+                        full = false
+        }
+        if (full)
+                return true
+        while (1) {
+                var num = getRandom(ar[message].length)
+                if (state.charAt(num) == "0")
+                        break
+        }
+        state = state.substring(0, num) + "1" + state.substring(num + 1, state.length)
+        return false
+}
+function getRandom(max) {
+        return Math.round((max - 1) * Math.random())
+}
+// -- End Hiding Here 
+// --></script>
+<CENTER>
+  <p>&nbsp; </p>
+    
+  <table width="561" border="0" height="427">
+    <tr>
+      <td height="18" width="56">&nbsp;</td>
+      <td height="18" width="434">&nbsp;</td>
+      <td height="18" width="57">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="355" width="56">&nbsp;</td>
+      <td height="355" width="434"><a href="main.php"><img src="images/logo.jpg" width="500" height="357" border="0"></a></td>
+      <td height="355" width="57">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="56">&nbsp;</td>
+      <td width="434">
+        <div align="center">
+          <p><font size="1" face="Arial, Helvetica, sans-serif"><a href="main.php">(or 
+            click image to continue)</a></p>
+          <p>best viewed with IE 5.5+ or Mozilla 1.6</p>
+          <p><a href="/obv/index.php"><strong>! OBV Quick Login !</strong></a></p>
+          <p>&nbsp;</p>
+        </div>
+      </td>
+      <td width="57">&nbsp;</td>
+    </tr>
+  </table>
+  <P>&nbsp;
+</center>
+</BODY>
+
+</HTML>
+<!-- END OF SCRIPT -->
+<!/SCRIPT>
+
+
+<!--......................................................... -->
+
+
+
+

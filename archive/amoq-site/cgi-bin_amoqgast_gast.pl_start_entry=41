@@ -1,0 +1,508 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<HTML>
+<HEAD>
+  <TITLE>AMOQ-Clan - 
+Mein geiles Gästebuch</TITLE>
+  <META NAME="Author" CONTENT="Bernd Schmidl">
+  <META NAME="GENERATOR" CONTENT="Blackybes Krasses Gästebuch - CGI Script">
+
+<STYLE type=text/css> 
+<!-- 
+A { font-size : 10pt; color : #FFCC00;  font-weight : bold; text-decoration : none; font-family : Arial,Helvetica;}
+BODY      {     font-weight : normal;}
+A:Visited  {    color : #FF9600;}
+A:Active  {     color : #FFCC00;}
+A:Hover  {      color : steelblue;}
+-->
+
+
+</STYLE>
+
+ <script language="JavaScript">
+    <!--
+    Normal2 = new Image(); 
+    Normal2.src = "../../1_startseite.gif"; /* Hier erste Standard-Grafik angeben */
+    Highlight2 = new Image(); 
+    Highlight2.src = "../../1_startseite_blue.gif"; /* Hier erste Highlight-Grafik angeben */
+
+    Normal3 = new Image(); 
+    Normal3.src = "../../2_members.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight3 = new Image(); 
+    Highlight3.src = "../../2_members_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal4 = new Image(); 
+    Normal4.src = "../../3_maps.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight4 = new Image(); 
+    Highlight4.src = "../../3_maps_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal5 = new Image(); 
+    Normal5.src = "../../4_skins.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight5 = new Image(); 
+    Highlight5.src = "../../4_skins_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal6 = new Image(); 
+    Normal6.src = "../../5_download.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight6 = new Image(); 
+    Highlight6.src = "../../5_download_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal7 = new Image(); 
+    Normal7.src = "../../6_server.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight7 = new Image(); 
+    Highlight7.src = "../../6_server_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal8 = new Image(); 
+    Normal8.src = "../../7_join.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight8 = new Image(); 
+    Highlight8.src = "../../7_join_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal9 = new Image(); 
+    Normal9.src = "../../8_clanwars.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight9 = new Image(); 
+    Highlight9.src = "../../8_clanwars_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal10 = new Image(); 
+    Normal10.src = "../../9_forum.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight10 = new Image(); 
+    Highlight10.src = "../../9_forum_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    Normal11 = new Image(); 
+    Normal11.src = "../../10_gast.gif"; /* Hier zweite Standard-Grafik angeben */
+    Highlight11 = new Image(); 
+    Highlight11.src = "../../10_gast_blue.gif"; /* Hier zweite Highlight-Grafik angeben */
+
+    
+/* usw. fuer alle weiteren zu benutzenden Grafiken */
+
+    function Bildwechsel(Bildnr,Bildobjekt)
+    {
+     window.document.images[Bildnr].src = Bildobjekt.src;
+    }
+   //-->
+    //-->
+   </script>
+
+
+</HEAD>
+<BODY TEXT="#FFFFFF" BGCOLOR="#000000" LINK="#0000FF" VLINK="#000080" ALINK="#FF0000">
+<A NAME="top"></A>
+<TABLE ALIGN=CENTER WIDTH="750" BORDER="0" CELLPADDING="0" CELLSPACING="0">
+<TR>
+  <Th colspan="2"><IMG SRC="../../title.jpg" ALT="AMOQ-Clan" WIDTH="750" HEIGHT="150" BORDER="0"></Th>
+</TR>
+
+<TR>
+
+  <TD width="200" valign="top">
+<a href="../../index.php3" onMouseOver="Bildwechsel(1,Highlight2)" onMouseOut="Bildwechsel(1,Normal2)"><IMG SRC="../../1_startseite.gif" 
+ALT="Startseite" 
+WIDTH="200" HEIGHT="47" BORDER="0"></a><a href="../../members.htm" onMouseOver="Bildwechsel(2,Highlight3)" 
+onMouseOut="Bildwechsel(2,Normal3)"><IMG 
+SRC="../../2_members.gif" ALT="Members" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../maps.htm" onMouseOver="Bildwechsel(3,Highlight4)" 
+onMouseOut="Bildwechsel(3,Normal4)"><IMG SRC="../../3_maps.gif" ALT="Maps" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../skins.htm" 
+onMouseOver="Bildwechsel(4,Highlight5)" onMouseOut="Bildwechsel(4,Normal5)"><IMG SRC="../../4_skins.gif" ALT="Skins" WIDTH="200" HEIGHT="37" 
+BORDER="0"></a><a 
+href="../../download.htm" onMouseOver="Bildwechsel(5,Highlight6)" onMouseOut="Bildwechsel(5,Normal6)"><IMG SRC="../../5_download.gif" ALT="Download" 
+WIDTH="200" 
+HEIGHT="42" BORDER="0"></a><a href="../../server.htm" onMouseOver="Bildwechsel(6,Highlight7)" onMouseOut="Bildwechsel(6,Normal7)"><IMG 
+SRC="../../6_server.gif" ALT="Server" WIDTH="200" HEIGHT="45" BORDER="0"></a><a href="../../join.htm" onMouseOver="Bildwechsel(7,Highlight8)" 
+onMouseOut="Bildwechsel(7,Normal8)"><IMG SRC="../../7_join.gif" ALT="Join" WIDTH="200" HEIGHT="42" BORDER="0"></a><a href="../../clanwars.htm" 
+onMouseOver="Bildwechsel(8,Highlight9)" onMouseOut="Bildwechsel(8,Normal9)"><IMG SRC="../../8_clanwars.gif" ALT="Clanwars" WIDTH="200" HEIGHT="42" 
+BORDER="0"></a><A HREF="#" onClick="window.open 
+('http://www.gamersboard.de/board.html?id=496','Forum','scrollbars=yes,status=no,top=100,left=100,width=780,height=580')" 
+onMouseOver="Bildwechsel(9,Highlight10)" onMouseOut="Bildwechsel(9,Normal10)"><IMG SRC="../../9_forum.gif" 
+WIDTH="200" ALT="Forum" HEIGHT="42" BORDER="0"></a><a href="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl" onMouseOver="Bildwechsel(10,Highlight11)" 
+onMouseOut="Bildwechsel(10,Normal11)"><IMG SRC="../../10_gast.gif" ALT="G&auml;stebuch" WIDTH="200" HEIGHT="45" BORDER="0"></a><br>
+<A HREF="intern/index.htm">Intern</A>
+
+</TD>
+  <TD width="550" valign="top"><IMG SRC="../../pixel.gif" WIDTH="530" HEIGHT="1" BORDER="0"><br>
+<CENTER><IMG SRC="../../gast.gif" ALT="Gästebuch" WIDTH="350" HEIGHT="60" BORDER="0"></CENTER><p><FORM ACTION="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl" METHOD=GET>
+
+<INPUT TYPE=HIDDEN NAME="wattodo" VALUE="passwort_gen">
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<tr bgcolor="#151515">
+<th colspan=2>Passwort Generator</th>
+</tr>
+<TR bgcolor="#151515">
+  <TD>Deine eMail Adresse: <INPUT NAME="email" TYPE=TEXT></TD>
+  <TD><INPUT NAME="yes" VALUE="Generieren" TYPE=SUBMIT></TD>
+</TR>
+</TABLE>
+
+</form>
+
+
+<FORM ACTION="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl" METHOD=GET>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<tr bgcolor="#151515">
+<th colspan=2>Eintragen</th>
+</tr>
+<TR bgcolor="#151515">
+  <TD>Name: <INPUT NAME="name" TYPE=TEXT></TD>
+  <TD>Passwort: <INPUT NAME="gen_pass" TYPE=TEXT></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Kommentar:<br><TEXTAREA NAME="kommentar" WRAP=PHYSICAL COLS="50" ROWS="6"></TEXTAREA></TD>
+</TR>
+<tr bgcolor="#151515">
+<th colspan=2><INPUT NAME="yes" VALUE="Best&auml;tigen" TYPE=SUBMIT></th>
+</tr>
+</TABLE>
+<INPUT TYPE=HIDDEN NAME="wattodo" VALUE="eintrag_beab">
+</form>
+<p>
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:janosbodony@hotmail.com">QF|DesperadoS</a></TD>
+  <TD width="50%">1.10.2000 - 14:23:<small>02</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hi AMOQ CLAN!<br><br>Ich wollte euch nur sagen das wir euch in RA3 herauswfordern und da ich kein challenge button gesehen hab schreib ichs mal hier rein!<br><br>www.quake-flames.de<br><br>CU@LL</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>41.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:nein">Spielehasser</a></TD>
+  <TD width="50%">29.9.2000 - 22:13:<small>51</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Vielen Dank wird so geschrieben und nich dank klein ihr doofnasen</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>42.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:nein">Spielehasser</a></TD>
+  <TD width="50%">29.9.2000 - 22:12:<small>36</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Spielen ist dumm, das machen nur spasten, die sowieso nie eine Freundin bekommen werden!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>43.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:alex@coshpage.de">Alex</a></TD>
+  <TD width="50%">29.9.2000 - 12:39:<small>59</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Ich weiss erst recht NIX, ausser, dass ich in Matje eh wieder Null Punkte geschrieben hab...</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>44.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:messer@gabel.de">Tante</a></TD>
+  <TD width="50%">29.9.2000 - 11:16:<small>58</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Moin weiß nicht was ich schreiben soll. </TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>45.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:nö">[ESF]OurKid</a></TD>
+  <TD width="50%">27.9.2000 - 14:02:<small>48</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Moin,<br>schöne Seite =)<br><br>Gruß an Impy und Doomi!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>46.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:[email removed]">AMoQPain[QSC]</a></TD>
+  <TD width="50%">25.9.2000 - 13:44:<small>12</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Bin gerade auf Arbeit und hab nichts zu tun ;). <br><br>Gruß an alle AMOQs und QSCs. Nichts tun ruleZ</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>47.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:ZeNO@AMoQ-Clan.de">AMoQ|ZeNO</a></TD>
+  <TD width="50%">25.9.2000 - 8:50:<small>27</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hab mal nicht nen Word-Kurs. Heute ist Excel dran :( Naja egal. Besser als Arbeiten *g*!<br>Gruß an alle AMoQs DGs und INCs!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>48.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:ste@ste1.de">MiB^STE7130^187</a></TD>
+  <TD width="50%">19.9.2000 - 15:25:<small>32</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Cowle seite ! Wie wäre es mit nem CW ?!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>49.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:alex@coshpage.de">Alex</a></TD>
+  <TD width="50%">18.9.2000 - 15:38:<small>26</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Schon gut, Bernd. Respekt vor 14 points...</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>50.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:ZeNO@AMoQ-Clan.de">AMoQ|ZeNO</a></TD>
+  <TD width="50%">18.9.2000 - 15:09:<small>53</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hab grad nen Word-Kurs und langweil mich zu tode!<br>Grüße an die AMoQs und die DGs!<br>CYA aLL</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>51.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:Rams@es.com">Mullugg</a></TD>
+  <TD width="50%">17.9.2000 - 15:09:<small>41</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">FUCK XooM!!! und ab jetzt auch noch FUCK RAMSES des billigste Gummi das es auf dem Markt zu kaufen gibt. 100% unsicher !!!<br>Ich glaub ich muss Kotzen gestern zu viel gesoffen!!! SCHOBBE</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>52.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:[email removed]">Blackybe</a></TD>
+  <TD width="50%">15.9.2000 - 16:42:<small>45</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Zensur muss sein! Sorry Alex ;)<br>www.blackybe.de</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>53.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:ZeNO@AMoQ-Clan.de">AMoQ|ZeNO</a></TD>
+  <TD width="50%">15.9.2000 - 11:09:<small>13</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hab grad nen NT-Kurs und langweil mich zu tode!<br>Grüße an die AMoQs und die DGs!<br>CYA aLL</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>54.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:cyber_gizzmo@gmx.de">CybeR_GizzmO</a></TD>
+  <TD width="50%">3.9.2000 - 14:20:<small>05</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Moin Junx! <br><br>Ich hab von irgend jemandem gehört, dass ihr noch Memberz sucht...? Ich bin vor kurzem bei [nnc] ausgetreten und wollt ma anfragen ;) Also zu meiner Person: Ich zock Q3 seit es draussen s und z.Z. nix anderes, wobei ich mich auf RA3 festgelegt hab (was heisst, dass ich kein BaseQ3 mehr spiel) Zu meinem Skill sag ich nix, sonst werd ich wieda als Proll abgestempelt (LoL) Naja wenn Interesse besteht, plz ICQt mich, meine ?:71545753<br><br>Greetz,<br><br>CybeR_GizzmO</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>55.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:clandg@gmx.de">[DG]SetH</a></TD>
+  <TD width="50%">2.9.2000 - 23:31:<small>12</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">WUUUUAAAAA,GEILE PAGE HIER :) WENN ICH BALD ONLINE BIN, WÜRDE ICH MICH AUCH GERNE BEI EUCH BEWERBEN :) ICH BIN AUCH EINER VON DEN DARK-GUARDIANS (CLAN LEADER) UND HOFFE , DAS ICH NOCH BEI EUCH UNTERKOMMEN KANN P.S. TeamDM RULED</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>56.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:Kubo@mk-clan.de">[MK]KuBo</a></TD>
+  <TD width="50%">31.8.2000 - 23:27:<small>36</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hi Amok,<br><br>ich wollt mal vorbeischauen, die Site ist echt nicht schlecht!<br> <br>Weiter so, vielelicht sehen wir uns nochmal in RA3! :)<br><br>Cy@ <br>Visit: http://www.mk-clan.de</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>57.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:-@-.-">Specter</a></TD>
+  <TD width="50%">31.8.2000 - 17:02:<small>56</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Ich muss euch leider sagen das ich aus AMOQ austrete! Die Gründe will ich hier jetzt nicht nennen. Ich glaube man sieht sich im IRC oder auch so mal.<br>CU Specter</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>58.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:amoq_darthmaul@hotmail.com">AMOQ|Darth-Maul</a></TD>
+  <TD width="50%">23.8.2000 - 13:33:<small>19</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Hi Folks,<br>Wie schauts bei euch !! :)<br><br>Wollte nur mal was reinschreiben hier!<br><br>Freue mich auf RA3 CW's das ist nähmlich mehr meine welt als normal TDM!!!<br>CYA all!!</TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>59.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+
+
+<TABLE WIDTH="450" BORDER="0" CELLPADDING="3" CELLSPACING="3">
+<TR bgcolor="#151515">
+  <TD width="50%"><a href="mailto:pennabierNeptun@gmx.de">Tante Trude</a></TD>
+  <TD width="50%">20.8.2000 - 10:37:<small>22</small></TD>
+</TR>
+
+<TR bgcolor="#151515">
+  <TD colspan="2">Moin amoq. Ein viel cooler Verband ist MaX. Also werdet mitglied und sauft Neptun ;)<br><br></TD>
+</TR>
+<TR bgcolor="#151515">
+  <TD colspan="2"><small><b>60.</b>   </small></TD>
+</TR>
+</TABLE>
+<p>
+
+<a href="http://amoq.gnw.de/cgi-bin/amoqgast/gast.pl?start_entry=61">Die nächsten 20 Einträge</a>
+</TD>
+</TR>
+<tr><td><A HREF="#top">#Top</A></td><td><small><FONT COLOR="#808080">&copy 2000 - AMOQ-Clan (Webmaster: <A 
+HREF="mailto:[email removed]">Blackybe</A> aka Bernd Schmidl)</FONT></small>
+
+</TABLE>
+
+
+Created with Blackybe's abgefahrenes Gästebuch v1.4
