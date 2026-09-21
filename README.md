@@ -56,14 +56,19 @@ Photos in [`clan/members/`](clan/members/), full profiles in
 </tr>
 </table>
 
-*(No photo of Blackybe survives.)*
+*Blackybe's photo is the one thing missing.* The members page linked
+`member/blackybek.jpg`, alt text **"Blackybe mal ganz cool ;)"**, 97×120 — but the Internet
+Archive's crawler grabbed the other four portraits on 7 August 2001 and never fetched his.
+His own site (`blackybe.de` → *"Blackybe, der einzig wahre Computergott"*) moved between a
+TU Darmstadt student account, `amoq.gnw.de/blackybe/` and `blackybe.barrysworld.net`, and all
+three refused the crawler. **If anyone has it, it belongs here.**
 
 | Nick | Name | Role | Rig (2001) |
 |---|---|---|---|
 | Hell Soldier | Pasquale Herzig | Clanleader, Q2 + Q3 team, clanwar organiser | P3 450, 256 MB, GeForce 2 MX |
 | Blackdog | Sven Schneider | Q2 + Q3 team, server admin, co-webmaster | Athlon 500, 192 MB, TNT2 |
 | Pain(storm) | Christoph Fröbisch | Q2 + Q3 team, clanwar organiser, *Clanreizer* | Duron 750@900, 128 MB, TNT2 Ultra |
-| Blackybe | Bernd Schmidl | Webmaster | — |
+| Blackybe | Bernd Schmidl | Webmaster, server admin, Q2 + Q3 team | P3 500, 256 MB, TNT2 |
 | Anthrax | Fabian Barkhau | Mapper | Celeron 400, 128 MB |
 
 Later members, from the news archive: **Specter** (Jul 2000), **Darth-Maul** and **Zeno**
@@ -75,6 +80,8 @@ map readmes: **Kampfkoloss** (Manuel Barkhau).
 > *"LAG mich!"* — Pain
 >
 > *"Hab ich vergessen!"* — Blackdog
+>
+> *"Bitte nicht alle auf einmal!"* — Blackybe
 
 The clan logo, donated by Phreakazoid (phr-gamez.de) in April 2000:
 
@@ -347,6 +354,9 @@ Searched, came up empty — so nobody has to repeat it.
 - `blackybe.de`, `phr-gamez.de`, `chaosquake.de` — nothing relevant
 - GameBanana, ModDB, MapRaider — nothing
 - None of the other AMOQ members appear in the ..::LvL author list (984 names, all checked)
+- **A photo of Blackybe.** `amoq.gnw.de/member/blackybek.jpg` and `blackybe.jpg` were never
+  crawled; `blackybe.de` only ever had its redirect page captured; the TU Darmstadt account
+  behind it returned 403 to the crawler on all nine visits, 2001–2003.
 
 ---
 
